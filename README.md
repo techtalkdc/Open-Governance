@@ -25,6 +25,18 @@ Submission Template:
   
 
 ## Upcoming Events (most recent on top)
+* **March 2016**
+  * Frontend Development for Full Stack Devs
+  * 50-min Lecture
+  * Full-stack developers have a lot to deal with these days: CSS frameworks, frontend MVCs, REST servers, databases, and more. That not including any infrastructure, containerization, and additional operations work. The three end states for full-stack devs are trying to do everything themselves (resulting in poor quality across the board), working endlessly (ending in burnout), or compromising on overall control of everything and augmenting their skills with frameworks and tools. This talk discusses how to best come to terms with relinquishing control and finding good frameworks when it comes to frontend development.
+  * Brian Conn
+  * brian@theconnman.com
+  * https://github.com/TheConnMan
+  * I'm a full-stack developer who adopted frontend development out of necessity. I normally work with a Java stack, though I've worked in many other languages as any developer will. Most of my experience is in rapid application development spanning from infrastructure to UI. My hobbies include drinking coffee and finding new open-source projects.
+  * All Skill Levels
+  * Projector
+  * http://theconnman.com/
+
 * **February 2016**
   * Event Name: February Social
   * Event Type: Happy Hour
