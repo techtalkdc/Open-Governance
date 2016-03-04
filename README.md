@@ -37,8 +37,7 @@ Submission Template:
   * Projector
   * http://theconnman.com/
  
-  
- * **March 23rd, 2016**
+* **March 23rd, 2016**
   * AWS Lambas
   * 50-min Lecture
   * Justin Winthers
