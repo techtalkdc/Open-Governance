@@ -25,7 +25,7 @@ Submission Template:
   
 
 ## Upcoming Events (most recent on top)
-* **March 2016**
+* **April 20th, 2016**
   * Frontend Development for Full Stack Devs
   * 50-min Lecture
   * Full-stack developers have a lot to deal with these days: CSS frameworks, frontend MVCs, REST servers, databases, and more. That not including any infrastructure, containerization, and additional operations work. The three end states for full-stack devs are trying to do everything themselves (resulting in poor quality across the board), working endlessly (ending in burnout), or compromising on overall control of everything and augmenting their skills with frameworks and tools. This talk discusses how to best come to terms with relinquishing control and finding good frameworks when it comes to frontend development.
@@ -36,6 +36,12 @@ Submission Template:
   * All Skill Levels
   * Projector
   * http://theconnman.com/
+ 
+  
+ * **March 23rd, 2016**
+  * AWS Lambas
+  * 50-min Lecture
+  * Justin Winthers
 
 * **February 2016**
   * Event Name: February Social
