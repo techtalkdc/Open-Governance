@@ -38,7 +38,7 @@ Submission Template:
   * http://theconnman.com/
  
 * **March 23rd, 2016**
-  * AWS Lambas
+  * AWS Lambdas
   * 50-min Lecture
   * Justin Winthers
 
