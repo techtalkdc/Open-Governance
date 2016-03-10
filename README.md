@@ -25,6 +25,21 @@ Submission Template:
   
 
 ## Upcoming Events (most recent on top)
+
+* **March 23rd, 2016**
+  * AWS Lambda - Building Serverless API's
+  * 50-min Lecture
+  * Learn techniques for quickly building highly scalable Api's using AWS Lambda without the need for a typical web server.
+  * By: Justin Winthers
+  * justin@hoozip.com
+  * JustinWinthers@GitHub
+  * By day, Justin Winthers is Technical Program manager and JavaScript enthusiast at the National Rural Electric Cooperative Association.In addition to NRECA, Justin serves as the lead architect and developer for Hoozip.com - a real estate technology platform for Real Estate investors. You can find Justin on Github often releasing utilities like NTLM-WebApi or animation libraries.  Most recently, Justin has been on a mission to build significant we applications without web servers to the extent possible.  Hoozip is currently built leveraging AWS Lambda, S3, AWS and API Gateway, Amazon EC2, and Amazon DynamoDB as it's infrastructure.  It's written in Angular, NodeJS, and a tiny bit of Python.
+  * All Skill Levels are invited
+  * Presenter Requirements: Something to plug my laptop into.
+  * Start/End Time: 7:00-7:30pm food + drinks, 6:30pm-7:30pm event time (unless otherwise required)
+  * Location: Arlington Tech Exchange, 2300 Wilson Blvd, Suite 630, Arlington, VA by Courthouse Metro (unless otherwise stated)
+
+
 * **April 20th, 2016**
   * Frontend Development for Full Stack Devs
   * 50-min Lecture
@@ -37,11 +52,6 @@ Submission Template:
   * Projector
   * http://theconnman.com/
  
-* **March 23rd, 2016**
-  * AWS Lambdas
-  * 50-min Lecture
-  * Justin Winthers
-
 * **February 2016**
   * Event Name: February Social
   * Event Type: Happy Hour
