@@ -7,22 +7,19 @@
 * If accepted, your PR will be accepted and your event will appear on the Meetup.com page.
 
 Submission Template:
-* **[Month Year]** (If available to present in multiple months, provide comma separated list, organizers will pick the one that works best.)
-  * Event Name: **required**
-  * Event Type: **pick one** [50-min Lecture, 5-15 minute 3-6 Lightning Talks, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
-  * Event Abstract: **required**
-  * Presenter Name(s): **required**
-  * Presenter E-mail: **required**
-  * Presenter GitHub Account: **required**
-  * Presenter Bio: **required**
-  * Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
-  * Presenter Requirements: [A/V, room setup, or any other needs]
-  * Presenter Blog: [optional]
-  * Presenter Portfolio: [optional]
+* **May, 18th 2016** 
+  Highlights from Build 2016 
+  3-6 Lightning Talks
+  * Attendees of Build 2016 will bring back highlights and parts they thought most interesting in the form of lightning talks. 
+  * Wyn Van Devanter, Doguhan Uluca, Pat Leong, Seth Pucket 
+  * wyn.vandevanter@excella.com
+  * https://github.com/Wyntuition
+  * http://96.31.42.227/people/wyn-van-devanter.aspx
+  * All Skill Levels
+  * Projector
+  * http://www.excella.com/insights
   * Start/End Time: 6:00-6:30pm food + drinks, 6:30pm-7:30pm event time (unless otherwise required)
   * Location: Arlington Tech Exchange, 2300 Wilson Blvd, Suite 630, Arlington, VA by Courthouse Metro (unless otherwise stated)
-  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-  
 
 ## Upcoming Events (most recent on top)
 * **April 20th, 2016**
