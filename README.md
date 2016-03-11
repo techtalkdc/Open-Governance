@@ -10,11 +10,11 @@ Submission Template:
 * **May, 18th 2016** 
   Highlights from Build 2016 
   3-6 Lightning Talks
-  * Attendees of Build 2016 will bring back highlights and parts they thought most interesting in the form of lightning talks. 
+  * Attendees of Build 2016 will bring back highlights and parts they thought most interesting in the form of lightning talks. More details to come after we attend the event in March/April.  
   * Wyn Van Devanter, Doguhan Uluca, Pat Leong, Seth Pucket 
   * wyn.vandevanter@excella.com
   * https://github.com/Wyntuition
-  * http://96.31.42.227/people/wyn-van-devanter.aspx
+  * http://96.31.42.227/people/wyn-van-devanter.aspx, other bios coming soon
   * All Skill Levels
   * Projector
   * http://www.excella.com/insights
