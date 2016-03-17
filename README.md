@@ -22,9 +22,22 @@ Submission Template:
   * Start/End Time: 6:00-6:30pm food + drinks, 6:30pm-7:30pm event time (unless otherwise required)
   * Location: Arlington Tech Exchange, 2300 Wilson Blvd, Suite 630, Arlington, VA by Courthouse Metro (unless otherwise stated)
   * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-  
 
 ## Upcoming Events (most recent on top)
+* **May, 18th 2016** 
+  Highlights from Build 2016 
+  3-6 Lightning Talks
+  * Attendees of Build 2016 will bring back highlights and parts they thought most interesting in the form of lightning talks. More details to come after we attend the event in March/April.  
+  * Wyn Van Devanter, Doguhan Uluca, Pat Leong, Seth Pucket 
+  * wyn.vandevanter@excella.com
+  * https://github.com/Wyntuition
+  * http://96.31.42.227/people/wyn-van-devanter.aspx, other bios coming soon
+  * All Skill Levels
+  * Projector
+  * http://www.excella.com/insights
+  * Start/End Time: 6:00-6:30pm food + drinks, 6:30pm-7:30pm event time (unless otherwise required)
+  * Location: Arlington Tech Exchange, 2300 Wilson Blvd, Suite 630, Arlington, VA by Courthouse Metro (unless otherwise stated)
+
 * **April 20th, 2016**
   * Frontend Development for Full Stack Devs
   * 50-min Lecture
