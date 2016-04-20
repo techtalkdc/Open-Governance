@@ -17,7 +17,7 @@ Usually:
  * Date: Meetups are generally held the 3rd Wednesday of the month and are scheduled in advance.
  * Times: 6:00-6:30pm food + drinks; 6:30pm-7:30pm event time
 
-## Upcoming Events (most recent on top)
+## Upcoming Events
 RSVP on [the Meetup page](http://www.meetup.com/TechTalkDC/#upcoming).
 
 | Date | Title | Location | Format | Speaker(s) | Summary |
