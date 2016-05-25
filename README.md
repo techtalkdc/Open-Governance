@@ -22,6 +22,7 @@ RSVP on [the Meetup page](http://www.meetup.com/TechTalkDC/#upcoming).
 
 | Date | Title | Location | Format | Speaker(s) | Summary |
 | ---- | ----- | -------- | ------ | ---------- | ------- |
+|[June 15, 2016](http://www.meetup.com/TechTalkDC/events/231392513/) | An Introduction to the Actor Model and Akka.NET | ATX | 50-min | [Sean Killeen](http://SeanKilleen.com) | Distributed programming and concurrency are more important than ever in today's development environment. Akka.NET is an open source project that brings the Actor model to the .NET ecosystem. Sean will discuss the concepts of Akka.NET and the Actor Model and demonstrate some of the great capabilities developers can leverage. |
 |[May 18, 2016](http://www.meetup.com/TechTalkDC/events/229663658/) | Highlights from Build 2016 | ATX | 3-6 Lightning Talks | [Wyn Van Devanter](https://github.com/Wyntuition), Doguhan Uluca, Pat Leong, Seth Pucket | Attendees of Build 2016 will bring back highlights and parts they thought most interesting in the form of lightning talks. More details to come after we attend the event in March/April. |
 
 ## Past Events
