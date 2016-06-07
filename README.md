@@ -23,6 +23,8 @@ RSVP on [the Meetup page](http://www.meetup.com/TechTalkDC/#upcoming).
 | Date | Title | Location | Format | Speaker(s) | Summary |
 | ---- | ----- | -------- | ------ | ---------- | ------- |
 |[June 15, 2016](http://www.meetup.com/TechTalkDC/events/231392513/) | An Introduction to the Actor Model and Akka.NET | ATX | 50-min | [Sean Killeen](http://SeanKilleen.com) | Distributed programming and concurrency are more important than ever in today's development environment. Akka.NET is an open source project that brings the Actor model to the .NET ecosystem. Sean will discuss the concepts of Akka.NET and the Actor Model and demonstrate some of the great capabilities developers can leverage. |
+|July 20, 2016| DW on AWS | ATX | 50 min | Gaurav Agrawal | A real use case of in-house 2 PB Hadoop Cluster Migration to AWS within few months. AWS is easy-to-use, cost effective, flexible, scalable and very reliable.Technologies involved are Hive, Presto, Python, Autosys using AWS EMR, AWS Lambda, AWS S3, AWS DynamoDB and AWS SNS. |
+|August 24, 2016| NodeSchool DC | ATX | Workshop | JavaScript Mentors | Learn Node.JS and JavaScript basics or advanced concepts by running through self-guided NodeSchool.io workshoppers. There will be mentors available to get you started and answer your questions. |
 
 ## Past Events
 See [the Meetup page](http://www.meetup.com/TechTalkDC/#past) for the complete list.
