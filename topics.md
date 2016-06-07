@@ -29,3 +29,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: All Skill Levels
  * **Requirements**: Projector or screen supporting HDMI output from laptop
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
+* **Session Title**: DW on AWS 
+ * **Preferred Timeframe**: 18 July - 29 July 
+ * **Event Type**: 50 min 
+ * **Summary**: This session is related to real use case of in-house 2 PB Hadoop Cluster Migration to AWS within few months. AWS is easy-to-use, cost effective, flexible, scalable and very reliable.Technologies involved are Hive, Presto, Python, Autosys using AWS EMR, AWS Lambda, AWS S3, AWS DynamoDB and AWS SNS. 
+ * **Presenter Name(s)**: Gaurav Agrawal 
+ * **Presenter E-mail(s)**: gauravatcs@aol.com 
+ * **Audience Skill Level**: [All Skill Levels] 
+ * **Requirements**: [A/V] 
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
