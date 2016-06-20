@@ -39,3 +39,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: [All Skill Levels] 
  * **Requirements**: [A/V] 
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+ * **Session Title**: IoT Programming with IoT Core
+ * **Preferred Timeframe**: 13 - August
+ * **Event Type**: 2-4 hours 
+ * **Summary**: This hackathon is meant to introduce the community to IoT Programming using the Open-Source Windows IoT Core and Universal Windows Platform.  This will also serve as a general introduction into Programming IoT Devices, and how IoT programming is made easier with Windows IoT platforms. People can either Open-Hack or follow along with our Tutorials on creating applications for a Raspberry Pi with a FEZ Hat.
+ * **Presenter Name(s)**: Patrick Leong
+ * **Presenter E-mail(s)**: patrick.leong@excella.com
+ * **Audience Skill Level**: [All Skill Levels] 
+ * **Requirements**: PC, with Visual Studio Community Edition or Greater
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
