@@ -40,6 +40,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: Beginner or Intermediate
  * **Requirements**: A/V
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. &#9786;
+ * **Bio**: A full-stack developer with a passion for all things JavaScript.  Senior Consultant at Excella Consulting by day, tinkerer by night.  Published an app built using Ionic called [Adoptry](https://play.google.com/store/apps/details?id=com.ionicframework.adoptry).
  
 * **Session Title**: DW on AWS 
  * **Preferred Timeframe**: 18 July - 29 July 
