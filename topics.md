@@ -30,6 +30,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: Projector or screen supporting HDMI output from laptop
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
  
+* **Session Title**: Ionic Workshop -- Building Your First App Using Ionic
+ * **Preferred Timeframe**:  Saturday, July 16th
+ * **Event Type**: All Day Workshop
+ * **Summary**: Ionic is a tool to allow developers to build iOS, Android, or Windows Phone apps using HTML5, CSS3, and Angular.  This workshop will be focused on teaching the basics necessary to get an Ionic app up and running, and ready to be published to the Google Play and Apple App Store.
+ * **Presenter Name(s)**: Kevin Groat
+ * **Presenter E-mail(s)**: info@kevingroat.io
+ * **Presenter GitHub Account**: https://github.com/kgroat
+ * **Audience Skill Level**: Beginner or Intermediate
+ * **Requirements**: A/V
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. &#9786;
+ 
 * **Session Title**: DW on AWS 
  * **Preferred Timeframe**: 18 July - 29 July 
  * **Event Type**: 50 min 
