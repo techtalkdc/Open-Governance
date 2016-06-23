@@ -61,3 +61,14 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: [All Skill Levels] 
  * **Requirements**: PC, with Visual Studio Community Edition or Greater
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* **Session Title**:  Developing cross-platform web applications with ASP.NET Core 1.0
+ * **Preferred Timeframe**:  July 12 - September 18
+ * **Event Type**: 2-3 Hour Workshop
+ * **Summary**: In this talk we are going to showcase you what's new, what's changed, and what's been removed in the upcoming (comming out Jume 27) version of ASP.NET framework. The framework was built from ground-up for cross-platform development and those trying to migrate existing solutions to it will need to be ready for a few breaking changes. This is not a 101 talk describing the ASP.NET basics, rather it is a demo of new features and changes. The talk will be packed with demonstrations and live code experience that you can reproduce on your own projects.
+ * **Presenter Name(s)**:  Dmitriy Podrezov
+ * **Presenter E-mail(s)**: dpodrezov@eastbanctech.com
+ * **Presenter GitHub Account**: ebt-techtalk
+ * **Audience Skill Level**: Intermediate, Advanced
+ * **Requirements**: Presenter connection to two sources (will need to switch between Dell and Mac), minimum network, WiFi okay
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
