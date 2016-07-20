@@ -74,6 +74,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: PC, with Visual Studio Community Edition or Greater
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+* **Session Title**: Xamarin Hack Day
+ * **Preferred Timeframe**: Saturday, September 10th, 2016
+ * **Event Type**: All Day Workshop
+ * **Summary**: This is a day for mobile developers, both seasoned and new, to get together, work on projects, share ideas, and benefit from the group's collective experience. If you're a Xamarin pro and you want to showcase your latest work, great! Come on out! If you've never created a mobile app before, but you've always been curious, definitely come out! There will be guides available along with developers who have already encountered the stumbling blocks and can help you on your way.
+ * **Presenter Name(s)**: Seth Puckett
+ * **Presenter E-mail(s)**: puckett.seth@gmail.com
+ * **Presenter GitHub Account**: https://github.com/sethpuckett
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: A/V
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 * **Session Title**:  Developing cross-platform web applications with ASP.NET Core 1.0
  * **Preferred Timeframe**:  July 12 - September 18
  * **Event Type**: 2-3 Hour Workshop
