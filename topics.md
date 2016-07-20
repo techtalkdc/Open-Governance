@@ -18,6 +18,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topics
 
+* **Session Title**: Getting started with Azure Event Hubs and Stream Analytics Services
+ * **Preferred Timeframe**:  August-September
+ * **Event Type**: 60 minute presentation w/ coding demos
+ * **Summary**: The total amount of data in the world almost doubles every 2 years. Storing data for offline processing is no longer a viable business model. In the past few years, new technologies for real-time data processing emerged. Microsoft Azure offers a comprehensive set of tools to ingest and process data in motion. In this presentation we will go over and learn how to collect data from devices, how to process data in real time using Azure Stream Analytic jobs, and how to produce and handle actionable insights.
+ * **Presenter Name(s)**: Vladimir Bychkov
+ * **Presenter E-mail(s)**: bychkov@gmail.com
+ * **Presenter GitHub Account**: https://github.com/bychkov
+ * **Presenter Blog**: 
+ * **Audience Skill Level**: Beginners, Intermediate
+ * **Requirements**: Projector+screen or big screen TV w/ HDMI input, internet connection
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
 * **Session Title**: An Introduction to the Actor Model and Akka.NET
  * **Preferred Timeframe**: Anytime that's good. June? 
  * **Event Type**: 50-min
