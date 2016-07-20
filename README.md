@@ -26,8 +26,8 @@ RSVP on [the Meetup page](http://www.meetup.com/TechTalkDC/#upcoming).
 |July 20, 2016| DW on AWS | ATX | 50 min | Gaurav Agrawal | A real use case of in-house 2 PB Hadoop Cluster Migration to AWS within few months. AWS is easy-to-use, cost effective, flexible, scalable and very reliable.Technologies involved are Hive, Presto, Python, Autosys using AWS EMR, AWS Lambda, AWS S3, AWS DynamoDB and AWS SNS. |
 |August 24, 2016| NodeSchool DC | ATX | Workshop | JavaScript Mentors | Learn Node.JS and JavaScript basics or advanced concepts by running through self-guided NodeSchool.io workshoppers. There will be mentors available to get you started and answer your questions. |
 |September 10, 2016| Xamarin Hack Day | ATX | Workshop | Seth Pucket | This is a day for mobile developers, both seasoned and new, to get together, work on projects, share ideas, and benefit from the group's collective experience.|
-|September 21, 2016 (unconfirmed)|Getting started with Azure Event Hubs and Stream Analytics Services|60 min| Vladimir Bychkov| Learn how to collect data from devices, how to process data in real time using Azure Stream Analytic jobs, and how to produce and handle actionable insights.|
-|October 19, 2016 (uncofirmed)| ATX | Workshop | Dmitriy Podrezov | In this talk we are going to showcase you what's new, what's changed, and what's been removed in the upcoming (comming out Jume 27) version of ASP.NET framework. |
+|September 21, 2016 (unconfirmed)|Getting started with Azure Event Hubs and Stream Analytics Services| ATX | 60 min| Vladimir Bychkov| Learn how to collect data from devices, how to process data in real time using Azure Stream Analytic jobs, and how to produce and handle actionable insights.|
+|October 19, 2016 (uncofirmed)| Developing cross-platform web applications with ASP.NET Core 1.0 | ATX | Workshop | Dmitriy Podrezov | In this talk we are going to showcase you what's new, what's changed, and what's been removed in the upcoming (comming out Jume 27) version of ASP.NET framework. |
 
 ## Past Events
 See [the Meetup page](http://www.meetup.com/TechTalkDC/#past) for the complete list.
