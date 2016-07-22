@@ -18,6 +18,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topics
 
+* **Session Title**: Getting started with Azure Event Hubs and Stream Analytics Services
+ * **Preferred Timeframe**:  August-September
+ * **Event Type**: 60 minute presentation w/ coding demos
+ * **Summary**: The total amount of data in the world almost doubles every 2 years. Storing data for offline processing is no longer a viable business model. In the past few years, new technologies for real-time data processing emerged. Microsoft Azure offers a comprehensive set of tools to ingest and process data in motion. In this presentation we will go over and learn how to collect data from devices, how to process data in real time using Azure Stream Analytic jobs, and how to produce and handle actionable insights.
+ * **Presenter Name(s)**: Vladimir Bychkov
+ * **Presenter E-mail(s)**: bychkov@gmail.com
+ * **Presenter GitHub Account**: https://github.com/bychkov
+ * **Presenter Blog**: 
+ * **Audience Skill Level**: Beginners, Intermediate
+ * **Requirements**: Projector+screen or big screen TV w/ HDMI input, internet connection
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
 * **Session Title**: An Introduction to the Actor Model and Akka.NET
  * **Preferred Timeframe**: Anytime that's good. June? 
  * **Event Type**: 50-min
@@ -60,6 +72,28 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Presenter E-mail(s)**: patrick.leong@excella.com
  * **Audience Skill Level**: [All Skill Levels] 
  * **Requirements**: PC, with Visual Studio Community Edition or Greater
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* **Session Title**: Xamarin Hack Day
+ * **Preferred Timeframe**: Saturday, September 10th, 2016
+ * **Event Type**: All Day Workshop
+ * **Summary**: This is a day for mobile developers, both seasoned and new, to get together, work on projects, share ideas, and benefit from the group's collective experience. If you're a Xamarin pro and you want to showcase your latest work, great! Come on out! If you've never created a mobile app before, but you've always been curious, definitely come out! There will be guides available along with developers who have already encountered the stumbling blocks and can help you on your way.
+ * **Presenter Name(s)**: Seth Puckett
+ * **Presenter E-mail(s)**: puckett.seth@gmail.com
+ * **Presenter GitHub Account**: https://github.com/sethpuckett
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: A/V
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* **Session Title**:  Developing cross-platform web applications with ASP.NET Core 1.0
+ * **Preferred Timeframe**:  July 12 - September 18
+ * **Event Type**: 2-3 Hour Workshop
+ * **Summary**: In this talk we are going to showcase you what's new, what's changed, and what's been removed in the upcoming (comming out Jume 27) version of ASP.NET framework. The framework was built from ground-up for cross-platform development and those trying to migrate existing solutions to it will need to be ready for a few breaking changes. This is not a 101 talk describing the ASP.NET basics, rather it is a demo of new features and changes. The talk will be packed with demonstrations and live code experience that you can reproduce on your own projects.
+ * **Presenter Name(s)**:  Dmitriy Podrezov
+ * **Presenter E-mail(s)**: dpodrezov@eastbanctech.com
+ * **Presenter GitHub Account**: ebt-techtalk
+ * **Audience Skill Level**: Intermediate, Advanced
+ * **Requirements**: Presenter connection to two sources (will need to switch between Dell and Mac), minimum network, WiFi okay
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 * **Session Title**: Xamarin Hack Day
