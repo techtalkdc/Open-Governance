@@ -2,6 +2,7 @@
 We're a DC-area tech talk Meetup held in Arlington, VA.
 
 [You can find us on Meetup.com here](http://www.meetup.com/TechTalkDC/).
+We're on DC Tech Slack `#techtalkdc` channel, if you want to chat with us. Join [here](http://www.dctechslack.com).
 
 ## How To Submit A Proposal for a Talk, Workshop or Event
 * Send a Pull Request modifying [topics.md](https://github.com/techtalkdc/MeetupSchedule/blob/master/topics.md) -- the file includes a template.
