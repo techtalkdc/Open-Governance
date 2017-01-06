@@ -5,7 +5,7 @@
 ### January 6th, 2017
 1. What can we do to encourage organizer engagement?
   1. Topics are limited to language specific, section that is impacted by the topics, what’s useful in front-end development? 
-  2. Sahil suggests making the topics more specific to the interest of organizers.
+  2. Sahil suggests that we focus talks towards one topic so that everyone - whether member or organizer - is incentivized to attend more often, (hopefully) helping people to take ownership and stay engaged on a more regular basis
   3. Sean suggests making a poll and curating our speakers to the interests of the members.
   4. All organizers have access to the twitter account?
     1.	Make sure that all of us can be responsible for what is said and what we follow/retweet.
