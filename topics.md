@@ -95,8 +95,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: Intermediate, Advanced
  * **Requirements**: Presenter connection to two sources (will need to switch between Dell and Mac), minimum network, WiFi okay
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* **Session Title**:  JavaScript Best Practices Workshopper
+ * **Preferred Timeframe**:  January 18
+ * **Event Type**: 1-2 Hour Workshop
+ * **Summary**: In this talk we will start by showing off the new JavaScript Best Practices workshopper that was recently published on nodeschool.io. We will talk about the purpose of the workshopper for users, as well as some of the techniques that were used and pluggins that were built for the workshopper. Then the audience will have hands on time with the workshopper with the support of the presenters and others who helped to build it.
+ * **Presenter Name(s)**:  Alex Hoffman/Kevin Groat
+ * **Presenter E-mail(s)**: alex.hoffman@excella.com, kevin.groat@excella.com
+ * **Presenter GitHub Account**: https://github.com/alexhoffman617, https://github.com/kgroat
+ * **Audience Skill Level**: All Skil Levels
+ * **Requirements**: A/V, wifi
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
  
- * **Session Title**:  Firebase and Angular 2
+* **Session Title**:  Firebase and Angular 2
  * **Preferred Timeframe**:  February 15
  * **Event Type**: 1-2 Hour Workshop
  * **Summary**: In this talk we are going to talk about using Firebase 2 as a back end and database solution for web apps. In particular we will focus on how it interfaces with Angular 2 through AngularFire 2. The first half of the talk will be a presentation that discusses the benefits and issues with using Firebase. These will include ease of setup, speed of development, how well it interfaces with Angular 2, as well as others. The second half of the talk will be a demo that creates a small chat app from scratch.
