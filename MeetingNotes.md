@@ -2,7 +2,7 @@
 > New meetings notes should be added to the top of the file. Discussions in the comments are welcome by anyone
 > All discussions are subject to our [Code of Conduct](https://github.com/techtalkdc/CodeOfConduct/blob/master/README.md)
 
-### January 6th, 2016
+### January 6th, 2017
 1. What can we do to encourage organizer engagement?
   1. Topics are limited to language specific, section that is impacted by the topics, what’s useful in front-end development? 
   2. Sahil suggests making the topics more specific to the interest of organizers.
