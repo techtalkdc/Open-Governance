@@ -29,7 +29,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: A/V, Wifi
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
- * **Session Title**: Entity Framework Core: The Cross Platform ORM for .Net
+* **Session Title**: Entity Framework Core: The Cross Platform ORM for .Net
  * **Preferred Timeframe**:  March 1, 2017
  * **Event Type**: 50-min
  * **Summary**: In this presentation I will give an overview of EF Core, discuss the differences between EF6 and EF Core, and give a coding walk through in which I will build an application using EF Core and ASP.Net Core Web API.
