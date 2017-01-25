@@ -41,7 +41,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
  
 * **Session Title**: Do More with Less Javascript - (AngularJS DC co-hosted event)
- * **Preferred Timeframe**:  March 15th, 2017
+ * **Preferred Timeframe**:  March 16th, 2017
  * **Event Type**: 50-min
  * **Summary**: JavaScript moves at the light of speed. Moving that fast may burn you, hard! Focusing on minimal tooling, and fewer frameworks will allow you to become an expert by going deeper, rather than stretching yourself too thin while achieving better results. I'll talk about why Angular 2, npm and TypeScript are the right technologies to focus on in 2017. There'll be three segments to the talk. First a 5 minute dry-run of my Ng-Conf 2017 talk and second 30 minutes elaboration of the topic, followed by Q+A with the audience.
  * **Presenter Name(s)**:  Doguhan Uluca
