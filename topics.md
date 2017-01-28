@@ -29,6 +29,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: A/V, Wifi
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+ * **Session Title**:  IoT Workshop and Hack Day
+ * **Preferred Timeframe**:  February 25
+ * **Event Type**: 4 Hour Workshop
+ * **Summary**: In this workshop we'll be providing you with Raspberry Pi 3's and GrovePi kits in order to build your very first IoT device.  This workshop will give you the option to follow along with our step-by-step tutorial to get you up and running, or if you're already experienced, you're welcome to bring your own devices and use our Pi's and GrovePi Kits.
+In addition to building your first device using Windows IoT, I'll also be showing you how to create apps to control and communicate with AllJoyn IoT devices around your home.
+Food and drink will be provided. 
+ * **Presenter Name(s)**:  Pat Leong
+ * **Presenter E-mail(s)**: patrick.leong@excella.com	
+ * **Presenter GitHub Account**: https://github.com/PatLeong
+ * **Audience Skill Level**: All levels
+ * **Requirements**: PC, Windows 10 (v10.0.10240 or higher), Visual Studio CE or Higher, Windows UWP Development Tools, and IoT Core Templates
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
 * **Session Title**: Entity Framework Core: The Cross Platform ORM for .Net
  * **Preferred Timeframe**:  March 1, 2017
  * **Event Type**: 50-min
