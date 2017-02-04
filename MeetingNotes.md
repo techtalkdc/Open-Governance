@@ -28,3 +28,25 @@
     2. Public slack channel where we can discuss how the meetup is being organized?
 5. Diversity
   1. Pat is doing research and is going to be reaching out to different members of the community to try and get speakers outside of our existing pool.
+
+### Feb 4th 2017
+1.	We need to figure out what we’re going to do for April, May, June.
+  1.	Schedule the regular meetup first
+  2.	Workshops are a bonus
+  3.	Sahil needs to reach out to someone in April: Bjorn Westergaard
+  4.	Bringing in known speakers?
+    1.	Coming up with a list of “known” speakers for April, May, June
+      1.	Jeff Harcourt
+      2.	Kate Rabinowitz
+      3.	CTO 1776
+      4.	Capitol One – James Patterson
+      5.	USDS - Robbie Holmes
+      6.	Roy Osherove
+      7.	Reginald Braithwaite
+      8.	Nathan Hessler
+2.	Monitoring/polling the members to make sure we’re having the right amount of events
+3.	Half of those who attend are new members, how to make them repeat members?
+4.	Diversity
+  1.	Pat to reach out to Taylor and Lougenia
+5.	Tech Talk DC Happy Hour 
+  1.	After a meetup or as a regular event.
