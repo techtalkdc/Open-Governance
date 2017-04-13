@@ -31,7 +31,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: Projector, attendees must bring laptops
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-
+###
 
 * **Session Title**: Why you should use Kotlin
  * **Preferred Timeframe**: Evening, May 17 (Scheduled for May 22 with speaker approval)
