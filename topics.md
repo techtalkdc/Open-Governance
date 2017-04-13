@@ -31,8 +31,10 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: Projector, attendees must bring laptops
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+
+
 * **Session Title**: Why you should use Kotlin
- * **Preferred Timeframe**: Evening, May 17
+ * **Preferred Timeframe**: Evening, May 17 (Scheduled for May 22 with speaker approval)
  * **Event Type**: 30-min Lecture (I tend to give shorter talks—I'll happily split an evening meetup with another short presentation)
  * **Summary**: An introduciton to Kotlin, largely as compared to Java, with emphasis on how it is easy to pick up, integrate with a project, and use piecemeal.  See draft slides at https://github.com/dinomite/talks/releases
  * **Presenter Name(s)**: Drew Stephens
