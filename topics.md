@@ -5,7 +5,7 @@ Interested in speaking at an upcoming TechTalk DC event? Add your information he
 This is meant to be a guide -- don't let it overwhelm you. Give us what you've got and we'll get the rest before we need it.
 
 
-* **Session Title**:  
+ * **Session Title**:  
  * **Preferred Timeframe**:  
  * **Event Type**: [Pick one: 50-min Lecture, Lightning Talk, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
  * **Summary**:
@@ -39,4 +39,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Presenter Blog**: http://dinomite.net
  * **Audience Skill Level**: All Skill Levels, targeted at those with Java experience
  * **Requirements**: Projector with at least 1024x768
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
+
+
+ * **Session Title**: Building your first app with React and Redux
+ * **Preferred Timeframe**:  Evening, June 21
+ * **Event Type**: 50-min Lecture
+ * **Summary**: This is designed to be a quick-start on [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/).  It will explain the principles, values, and how to get up and running with the technologies.  I will walk you through creating a simple chat application using a firebase backend.
+ * **Presenter Name(s)**: Kevin Groat
+ * **Presenter E-mail(s)**: kgroat09@gmail.com
+ * **Presenter GitHub Account**: kgroat
+ * **Presenter Blog**: http://blog.excella.com/
+ * **Audience Skill Level**: Beginners, Intermediate
+ * **Requirements**: Projector & classrom-style seating
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
