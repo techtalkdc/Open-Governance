@@ -41,6 +41,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: Projector with at least 1024x768
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
 
+------------------------------
 
  * **Session Title**: Building your first app with React and Redux
  * **Preferred Timeframe**:  Evening, June 21
