@@ -52,14 +52,14 @@
   1.	After a meetup or as a regular event.
 
 ### May 23rd 2017
-1. Retrospective on last month's events (Docker Workshop & Kotlin) 1
-  1. Docker workshop well attended with over 50 people 1.1
-  2. Kotlin talk was 15 people.  Full house actually (half the ATX) 1.2
-  3. Lessons learned: Workshops during the weekday have the potential to have much better attendance than our weekend series. 1.3
-  4. Docker was a very popular topic. 1.4
-  5. Introductory material was well embraced. 1.5
-  6. Wifi issues in the ATX with large audience. 1.6
-  7. Passing out Feedback forms right after the talk. 1.7
+1. Retrospective on last month's events (Docker Workshop & Kotlin)
+  1. Docker workshop well attended with over 50 people 
+  2. Kotlin talk was 15 people.  Full house actually (half the ATX) 
+  3. Lessons learned: Workshops during the weekday have the potential to have much better attendance than our weekend series. 
+  4. Docker was a very popular topic. 
+  5. Introductory material was well embraced. 
+  6. Wifi issues in the ATX with large audience. 
+  7. Passing out Feedback forms right after the talk. 
 2. Survey Results and conclusions 
 3. Discussion of upcoming events 
   1. Kevin Groat scheduled for next month
