@@ -54,3 +54,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: Beginners, Intermediate
  * **Requirements**: Projector & classrom-style seating
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
+ 
+ ------------------------------
+
+ * **Session Title**: Empathy as a Service: Supporting Mental Health in the Tech Workplace
+ * **Preferred Timeframe**: July (anytime after July 18)
+ * **Event Type**: 50-min Lecture
+ * **Summary**: 1 in 5 Americans are living with a mental illness such as depression, bipolar, anxiety, or ADHD. As a community, the single most damaging thing we can do is perpetuate the stigma against mental disorders. This talk will begin with an overview of key statistics about mental wellness, followed by the efforts of the non-profit organization [Open Sourcing Mental Illness](https://osmihelp.org) to gather more data about mental health in the tech industry, the ALGEE action plan taught by the [Mental Health First Aid](https://www.mentalhealthfirstaid.org/) training course, and finally conclude with ideas and strategies for making our tech workplaces more accommodating and inclusive.
+ * **Presenter Name(s)**: Nara Kasbergen
+ * **Presenter E-mail(s)**: nara@nara.codes
+ * **Presenter GitHub Account**: @xiehan
+ * **Presenter Blog**: https://medium.com/@xiehan
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: Projector & classroom-style seating
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
