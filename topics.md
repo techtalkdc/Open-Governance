@@ -54,3 +54,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: Beginners, Intermediate
  * **Requirements**: Projector & classrom-style seating
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
+ 
+ 
+------------------------------
+
+ * **Session Title**: Imposter Syndrome - 22 years and still faking it
+ * **Preferred Timeframe**:  Evening, July or August 
+ * **Event Type**: 40-min Lecture
+ * **Summary**: This is a talk focused on how someone with 22 years of experience has always had and still fights through imposter syndrome. Hopefully providing a few ways to cope and overcome imposter syndrome.
+ * **Presenter Name(s)**: Robbie Holmes
+ * **Presenter E-mail(s)**: robbiethegeek@gmail.com
+ * **Presenter GitHub Account**: robbiethegeek
+ * **Presenter Blog**: http://thegeekspeaks.io/
+ * **Audience Skill Level**: Beginners, Intermediate
+ * **Requirements**: Projector & classrom-style seating
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
