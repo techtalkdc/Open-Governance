@@ -2,7 +2,8 @@
 
 - Topics Targets for year (from radar, etc)
   - Cloud - 
-    - Serverless (Lambda, Azure  Functions, Google Cloud), Containers (Docker, deploying), Microservices, 
+    - Serverless (Lambda, Azure  Functions, Google Cloud), 
+    - Containers (Docker, deploying, Swarm vs Kubernetes vs Mesos vs etc), microservices
     - Cloud migrations (where to start, hybrid approaches, tools, tech)
   - Hot languages (i.e. Go)
   - Functional
