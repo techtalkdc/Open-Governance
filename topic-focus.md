@@ -1,4 +1,4 @@
-# Tech Talk Strategy 2017
+# Tech Talk Strategy 2017+
 
 - Topics Targets for year (from radar, etc)
   - Cloud - 
