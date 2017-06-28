@@ -16,6 +16,7 @@
     - Micro frontends 
   - Machine Learning
   - VR
+  - Security
 - Example talks 
   - Running Microservices on AWS ECS
   - Vue.js vs …
