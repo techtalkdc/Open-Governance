@@ -5,7 +5,7 @@ Interested in speaking at an upcoming TechTalk DC event? Add your information he
 This is meant to be a guide -- don't let it overwhelm you. Give us what you've got and we'll get the rest before we need it.
 
 
-* **Session Title**:  
+ * **Session Title**:  
  * **Preferred Timeframe**:  
  * **Event Type**: [Pick one: 50-min Lecture, Lightning Talk, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
  * **Summary**:
@@ -17,17 +17,32 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Requirements**: [A/V, room setup, or any other needs]
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-### 
-* **Session Title**: Docker Development Workshop (part 1)
- * **Preferred Timeframe**: Evening
- * **Event Type**: 2 hour workshop (hands-on!) - 1st in a potential series (others include, Deploying to ECS, Deploying to ACS, Using Docker for CI; Talks that are related are Docker Networking, Docker Volumes)
- * **Summary**: Using Docker during the development process has several advantages. We can use or create a container that has the libraries and tools we need installed, and use it to build and run our app. We don’t have them on our host computer, and we can spin up an environment with multiple services and a database in minutes, with one command. We can then share this environment with our teammates via the Docker images or in a code repo, so we can ensure they have the same things installed and can get up and running quickly.First, we will go over the basics of Docker and containers. Then, we will go through the process of creating an image, and tweaking it in order to get the dependencies we need to start developing. Then, we will build upon a scaffolded app with it building and running in a Docker container. We will go through the entire development workflow with Docker in the mix. We will then go through the very basics of deploying these containers that encompass your new app to the cloud. 
- * **Presenter Name(s)**: Wyn Van Devanter 
- * **Presenter E-mail(s)**: wyn.vandevanter@excella.com
- * **Presenter GitHub Account**: https://github.com/wyntuition
- * **Presenter Blog**: https://www.excella.com/insights/author/wynv
- * **Audience Skill Level**: All Skill Levels
- * **Requirements**: Projector, attendees must bring laptops
- * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
 ## Accepted Topics
+
+###
+
+ * **Session Title**: Building your first app with React and Redux
+ * **Preferred Timeframe**:  Evening, June 21
+ * **Event Type**: 50-min Lecture
+ * **Summary**: This is designed to be a quick-start on [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/).  It will explain the principles, values, and how to get up and running with the technologies.  I will walk you through creating a simple chat application using a firebase backend.
+ * **Presenter Name(s)**: Kevin Groat
+ * **Presenter E-mail(s)**: kgroat09@gmail.com
+ * **Presenter GitHub Account**: kgroat
+ * **Presenter Blog**: http://blog.excella.com/
+ * **Audience Skill Level**: Beginners, Intermediate
+ * **Requirements**: Projector & classrom-style seating
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
+ 
+ ------------------------------
+
+ * **Session Title**: Empathy as a Service: Supporting Mental Health in the Tech Workplace
+ * **Preferred Timeframe**: July (anytime after July 18)
+ * **Event Type**: 50-min Lecture
+ * **Summary**: 1 in 5 Americans are living with a mental illness such as depression, bipolar, anxiety, or ADHD. As a community, the single most damaging thing we can do is perpetuate the stigma against mental disorders. This talk will begin with an overview of key statistics about mental wellness, followed by the efforts of the non-profit organization [Open Sourcing Mental Illness](https://osmihelp.org) to gather more data about mental health in the tech industry, the ALGEE action plan taught by the [Mental Health First Aid](https://www.mentalhealthfirstaid.org/) training course, and finally conclude with ideas and strategies for making our tech workplaces more accommodating and inclusive.
+ * **Presenter Name(s)**: Nara Kasbergen
+ * **Presenter E-mail(s)**: nara@nara.codes
+ * **Presenter GitHub Account**: @xiehan
+ * **Presenter Blog**: https://medium.com/@xiehan
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: Projector & classroom-style seating
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍

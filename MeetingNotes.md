@@ -50,3 +50,32 @@
   1.	Pat to reach out to Taylor and Lougenia
 5.	Tech Talk DC Happy Hour 
   1.	After a meetup or as a regular event.
+
+### May 23rd 2017
+1. Retrospective on last month's events (Docker Workshop & Kotlin)
+  1. Docker workshop well attended with over 50 people 
+  2. Kotlin talk was 15 people.  Full house actually (half the ATX) 
+  3. Lessons learned: Workshops during the weekday have the potential to have much better attendance than our weekend series. 
+  4. Docker was a very popular topic. 
+  5. Introductory material was well embraced. 
+  6. Wifi issues in the ATX with large audience. 
+  7. Passing out Feedback forms right after the talk. 
+2. Survey Results and conclusions 
+3. Discussion of upcoming events 
+  1. Kevin Groat scheduled for next month
+  2. Nate Hessler moved
+  3. Robbie Holmes follow up for July
+  4. Node DC nodeschool workshop in August
+  5. Robbie Holmes talking about using a different venue, DU has contacted him.
+4. Direction of Tech Talk DC
+  1. We'd like to establish a vision of where the meetup is going
+  2. Picking broad catagories that we can find talks for the rest of the year.
+    1. Focus what the talks will be around can make it easier for us to find speakers.
+  3. Wyn to create a draft list of catagories for the year.
+  4. Suggestion of meetups where we can find speakers.
+    1. Try to partner up with another meetup.
+5. Clearly define roles in the Meetup leadership
+  1. Define the separate responsibilities of running the meetup
+  2. Will let us know what needs to be covered.
+  3. Allow us to transition leadership more smoothly.
+  4. Pat Leong will define it.
