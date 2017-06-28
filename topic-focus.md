@@ -1,4 +1,5 @@
-- Tech Talk Strategy 2017
+# Tech Talk Strategy 2017
+
 - Topics Targets for year (from radar, etc)
   - Cloud - 
     - Serverless (Lambda, Azure  Functions, Google Cloud), Containers (Docker, deploying), Microservices, 
