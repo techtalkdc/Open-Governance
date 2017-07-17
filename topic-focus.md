@@ -1,0 +1,50 @@
+# Tech Talk Strategy 2017+
+
+- Topics Targets for year (from radar, etc)
+  - Cloud - 
+    - Serverless (Lambda, Azure  Functions, Google Cloud), 
+    - Containers (Docker, deploying, Swarm vs Kubernetes vs Mesos vs etc), microservices
+    - Cloud migrations (where to start, hybrid approaches, tools, tech)
+  - Hot languages (i.e. Go)
+  - Functional
+  - JavaScript
+    - Redux
+    - Vue vs Ember vs React vs Angular 
+    - PostCSS 
+    - ECMAScript 2017 
+    - Progress web applications
+    - Micro frontends 
+  - Machine Learning
+  - VR
+  - Security
+- Example talks 
+  - Running Microservices on AWS ECS
+  - Vue.js vs …
+  - Angular vs. React Deep Dive
+  - AWS vs Azure [vs Google Cloud]
+  - Node vs .NET Core 
+  - UI Testing with Enzyme 
+  - Using Avro 
+  - APIs as a Product 
+  - Pipelines as Code 
+  - Decoupling secret management from source code 
+  - Legacy in a Box 
+  - Container Security Scanning
+  - Lightweight Architectural Decision Records in Source Code 
+  - Using Micro Frontends 
+  - Platform Engineering Product Teams: When are they necessary?
+  - Test-Driven CSS
+- Example workshops
+  - ECMAScript 2017
+  - Docker Deployments 
+  - Serverless framework 
+  - Deploying a Dockerized App in … [AWS ECS, Heroku, Azure, etc]
+- Example meetups to go to, complement
+  - Docker DC 
+  - AWS Washington DC Meetup
+  - DC Azure for Government
+  - React DC 
+  - Node DC 
+  - AngularJS DC 
+  - DCJS 
+  - .NET, Python, Ruby, etc stack meetups
