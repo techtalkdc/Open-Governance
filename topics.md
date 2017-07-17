@@ -46,3 +46,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: Beginners, Intermediate
  * **Requirements**: Projector & classrom-style seating
 
+------------------------------
+
+* **Session Title**:  So You Want To Go Faster? 
+ * **Preferred Timeframe**: August 1st (or sometime that week) 
+ * **Event Type**: 50-min Lecture
+ * **Summary**: How frequently does a good agile team deploy to production? Not every team is capable of deploying "on every commit". What does it take for a team to even start deploying at the end of each sprint, or each week, or each day?
+
+Most companies don't realize that deploying more frequently often requires both significant technical change as well as cultural change. In this talk, I'll guide you through what it takes to deploy more frequently, both from the technical side of setting up pipelines as well as the organizational side of removing red tape. I'll draw on the unique challenges that teams must overcome at each step of the way, from deploying once a month all the way down to full continuous delivery. If your team has been struggling to go faster, come see how you can change to get there. 
+ * **Presenter Name(s)**: Daniel Davis
+ * **Presenter E-mail(s)**: Ooblioob@gmail.com
+ * **Presenter GitHub Account**: Ooblioob
+ * **Presenter Blog**: http://blog.excella.com/
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: projector, classroom-style seating, sweet disco lights and a fog machine for dramatic entrance (optional)
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
