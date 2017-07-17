@@ -21,20 +21,6 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ###
 
- * **Session Title**: Building your first app with React and Redux
- * **Preferred Timeframe**:  Evening, June 21
- * **Event Type**: 50-min Lecture
- * **Summary**: This is designed to be a quick-start on [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/).  It will explain the principles, values, and how to get up and running with the technologies.  I will walk you through creating a simple chat application using a firebase backend.
- * **Presenter Name(s)**: Kevin Groat
- * **Presenter E-mail(s)**: kgroat09@gmail.com
- * **Presenter GitHub Account**: kgroat
- * **Presenter Blog**: http://blog.excella.com/
- * **Audience Skill Level**: Beginners, Intermediate
- * **Requirements**: Projector & classrom-style seating
- * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
- 
-------------------------------
-
  * **Session Title**: Empathy as a Service: Supporting Mental Health in the Tech Workplace
  * **Preferred Timeframe**: July (anytime after July 18)
  * **Event Type**: 50-min Lecture
