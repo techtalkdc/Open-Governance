@@ -75,3 +75,19 @@ Most companies don't realize that deploying more frequently often requires both 
 * **Audience Skill Level**: All Skill Levels
 * **Requirements**: Projector & classrom-style seating
 * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
+
+
+
+------------------------------
+ 
+* **Session Title**: Taming and Composing High Performance Stream-Oriented Processing
+* **Preferred Timeframe**: Any weeknight
+* **Event Type**: 50 mins / 1 hour Lecture
+* **Summary**: Real time applications are dominating the industry! Data is the main ingredient in Internet-based, social media and Internet of things (IoT) systems, which generate continuous streams of events used for real time analytics. This poses a tremendous challenge due to the massive volume of data collected and processed. These event-based Real-time analysis systems can easily process millions of messages per second through new generation solutions by simply defining small flows and then combining them together to create processing graphs. In this talk, will cover the concepts behind high-performance streamed-oriented big data processing systems. We will explore messaging queue systems like Kafka and Akka Streams which let developers define their process workflows at a higher level to define a graph system enabling a high throughput. You will learn how to integrate high performance stream message queues and how to define process workflows in C# and F#.
+* **Presenter Name(s)**: Riccardo Terrell
+* **Presenter E-mail(s)**: tericcardo@gmail.com
+* **Presenter GitHub Account**: @rikace
+* **Presenter Blog**: http://www.rickyterrell.com
+* **Audience Skill Level**: All Skill Levels
+* **Requirements**: Projector 
+* **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
