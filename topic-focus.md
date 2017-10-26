@@ -5,7 +5,7 @@
     - Serverless (Lambda, Azure  Functions, Google Cloud), 
     - Containers (Docker, deploying, Swarm vs Kubernetes vs Mesos vs etc), microservices
     - Cloud migrations (where to start, hybrid approaches, tools, tech)
-  - Hot languages (i.e. Go)
+  - Hot languages (i.e. Go, Kotlin)
   - Functional
   - JavaScript
     - Redux
