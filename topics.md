@@ -30,9 +30,9 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-## Get into Docker Workshop Series, Part 2: Deploying a Dockerized App Workshop
+## Get into Docker Workshop Series, Part 2: Getting Started with Docker Deployments
 
-* Session Title: Deploying a Dockerized App Workshop
+* Session Title: Getting Started With Docker Deployments
 * Preferred Timeframe: An April evening 
 * Event Type: 2 Hour Workshop - 6-8, w/happy hour after
 * Summary: We will take an existing simple app that is running in Docker, and take the steps to deploy it. We'll use AWS ECS since it's already set up and we can focus on the app. 
