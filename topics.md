@@ -19,7 +19,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 ## Get into Docker Workshop Series, Part I: Getting Started with Docker Workshop
 
 * Session Title: Getting Started with Docker Workshop
-* Preferred Timeframe: An April evening 
+* Preferred Timeframe: A March evening 
 * Event Type: 2 Hour Workshop - 6-8, w/happy hour after
 * Summary: We will take an existing simple app and Dockerize it. I'll run through the concepts of Docker for ~20 minutes as this is for getting started with Docker, then it will be Dockerizing an app and then using Compose to build and run it.
 * Presenter Name(s): Wyn Van Devnater
@@ -33,7 +33,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 ## Get into Docker Workshop Series, Part 2: Deploying a Dockerized App Workshop
 
 * Session Title: Deploying a Dockerized App Workshop
-* Preferred Timeframe: A March evening 
+* Preferred Timeframe: An April evening 
 * Event Type: 2 Hour Workshop - 6-8, w/happy hour after
 * Summary: We will take an existing simple app that is running in Docker, and take the steps to deploy it. We'll use AWS ECS since it's already set up and we can focus on the app. 
 * Presenter Name(s): Wyn Van Devnater
