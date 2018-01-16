@@ -16,7 +16,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: [A/V, room setup, or any other needs]
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-## Get into Docker Workshop Series, Part I: Getting Started with Docker Workshop
+## Get into Docker Workshop Series, Part I: Getting Started with Docker 
 
 * Session Title: Getting Started with Docker Workshop
 * Preferred Timeframe: A March evening 
