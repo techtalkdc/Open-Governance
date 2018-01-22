@@ -16,9 +16,23 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: [A/V, room setup, or any other needs]
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-## Proposed Topics
+## Accepted Topics
 
 ------------------------------
+ 
+### Queeries
+  
+  * Session Title: Queeries
+  * Preferred Timeframe: February-March
+  * Event Type: Panel
+  * Summary: A discussion of professional queer issues in technology. Through the stories and experiences from the panel, we hope to foster empathy from allies and solidarity within the LGBT community.
+  * Presenter Name(s): Drew Nickerson, Casey Watts
+  * Presenter E-mail(s): dnick13@gmail.com, casey.s.watts@gmail.com
+  * Presenter GitHub Account:
+  * Presenter Blog:
+  * Audience Skill Level: All Skill Levels
+  * Requirements: 2-3 microphones (Moderator, Panelists, Audience)
+  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Get into Docker Workshop Series, Part I: Getting Started with Docker 		
  		
@@ -47,22 +61,4 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * Audience Skill Level: Beginners		
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed		
  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
- 
-### Queeries
   
-  * Session Title: Queeries
-  * Preferred Timeframe: February-March
-  * Event Type: Panel
-  * Summary: A discussion of professional queer issues in technology. Through the stories and experiences from the panel, we hope to foster empathy from allies and solidarity within the LGBT community.
-  * Presenter Name(s): Drew Nickerson, Casey Watts
-  * Presenter E-mail(s): dnick13@gmail.com, casey.s.watts@gmail.com
-  * Presenter GitHub Account:
-  * Presenter Blog:
-  * Audience Skill Level: All Skill Levels
-  * Requirements: 2-3 microphones (Moderator, Panelists, Audience)
-  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-  
-  
-## Accepted Topics
-
-------------------------------
