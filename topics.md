@@ -62,3 +62,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed		
  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
   
+### ACRUMEN: Key Aspects of Software Quality
+
+* Session Title: ACRUMEN: Key Aspects of Software Quality
+* Preferred Timeframe: Whenever (within reason!)
+* Event Type: 30-min Lecture plus Q&A
+* Summary: The key aspects of software quality, in a prioiritized acronym, with a little bit about how to achieve each.
+* Presenter Name(s): Dave Aronson
+* Presenter E-mail(s): meetup.2.TRex@Codosaur.us
+* Presenter GitHub Account: https://github.com/davearonson
+* Presenter Blog: http://blog.Codosaur.us
+* Audience Skill Level: Software Developers of All Skill Levels
+* Requirements: A/V (I will have slides on a Macbook Air, and would like to be recorded, but can project to a small room w/o a mic)
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+* Other: Five-minute version at https://www.youtube.com/embed/YMoa5JpjEtM?start=4079&end=4355&version=3
