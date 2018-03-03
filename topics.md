@@ -6,12 +6,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 * Session Title:
 * Preferred Timeframe:
-* Event Type: [Pick one: 50-min Lecture, Lightning Talk, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
+* Event Type: [Pick one: 50-min Lecture, Lightning Talk, Panel Event, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
 * Summary:
 * Presenter Name(s):
 * Presenter E-mail(s):
 * Presenter GitHub Account:
 * Presenter Blog:
+* Presenter image to include on Meetup.com:
 * Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
 * Requirements: [A/V, room setup, or any other needs]
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
@@ -19,22 +20,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 ## Accepted Topics
 
 ------------------------------
- 
-### Queeries
-  
-  * Session Title: Queeries
-  * Preferred Timeframe: February-March
-  * Event Type: Panel
-  * Summary: A discussion of professional queer issues in technology. Through the stories and experiences from the panel, we hope to foster empathy from allies and solidarity within the LGBT community.
-  * Presenter Name(s): Drew Nickerson, Casey Watts
-  * Presenter E-mail(s): dnick13@gmail.com, casey.s.watts@gmail.com
-  * Presenter GitHub Account:
-  * Presenter Blog:
-  * Audience Skill Level: All Skill Levels
-  * Requirements: 2-3 microphones (Moderator, Panelists, Audience)
-  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-### Get into Docker Workshop Series, Part I: Getting Started with Docker 		
+### Get into Docker Workshop Series, Part I: Getting Started with Docker 		(Scheduled: May 15)
  		
  * Session Title: Getting Started with Docker Workshop		
  * Preferred Timeframe: A March evening 		
@@ -48,7 +35,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed		
  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.		
  		
-### Get into Docker Workshop Series, Part 2: Getting Started with Docker Deployments		
+### Get into Docker Workshop Series, Part 2: Getting Started with Docker Deployments		(Scheduled: May 30)
  		
  * Session Title: Getting Started With Docker Deployments		
  * Preferred Timeframe: An April evening 		
