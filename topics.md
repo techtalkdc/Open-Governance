@@ -49,3 +49,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed		
  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
   
+### TeamCity, OctopusDeploy, and Azure: So Happy Together
+
+* Session Title: TeamCity, OctopusDeploy, and Azure: So Happy Together
+* Preferred Timeframe: Anytime is fine (march seems to be open)
+* Event Type: 50-min Lecture
+* Summary: Continuous integration and automated delivery are considered best practices, but how does it actually happen? During this talk, Sean will create -- from scratch -- a CI/CD pipeline for a real project using TeamCity, OctopusDeploy, and the Azure cloud. Along the way, we'll discuss Chocolatey, depoloyment slots, nuget packages, and more. We'll also touch on Appveyor and some other Azure deployment methods, as well as the "why" of CI/CD.
+* Presenter Name(s): Sean Killeen
+* Presenter E-mail(s): SeanKilleen@gmail.com
+* Presenter GitHub Account: SeanKilleen
+* Presenter Blog: http://SeanKilleen.com, https://www.excella.com/insights/author/sean-killeen
+* Presenter image to include on Meetup.com: https://pbs.twimg.com/profile_images/917948492068347904/U8MUHyhg_400x400.jpg
+* Audience Skill Level: All Skill Levels
+* Requirements: Projector with HDMI. Also, a bowl of only green M&Ms. (okay, fine, just the HDMI).
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. (and appreciate it!)
