@@ -75,7 +75,7 @@ There are two basic ideas of being creative. First, through understanding struct
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 
-## Painless End to End Testing with Cypress
+### Painless End to End Testing with Cypress
 *Scheduled June 27*
 
 * Session Title: Painless end to end testing with Cypress
