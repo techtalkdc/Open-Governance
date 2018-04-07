@@ -26,8 +26,6 @@ Add your proposed Topic here!
 
 ## Accepted Topics
 
-------------------------------
-
 ### Get into Docker Workshop Series, Part I: Getting Started with Docker 		
 *Scheduled: May 15*
 
@@ -43,6 +41,7 @@ Add your proposed Topic here!
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed
  * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+
 ### Get into Docker Workshop Series, Part 2: Getting Started with Docker Deployments
 *Scheduled: May 30*
 
@@ -56,22 +55,8 @@ Add your proposed Topic here!
  * Presenter Blog: http://www.excella.com/insights
  * Audience Skill Level: Beginners
  * Requirements: Table at the front I can sit at while projecting working on my laptop, workshop-style 4 person-per-table setup, I think both sides of the ATX will be needed
- * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct
 
-* Session Title: Innovation and the link to Creativity: To keep your mind nimble for work and life
-* Preferred Timeframe: End of May, beginning of June.  June 13th at the latest.
-* Event Type: 50-min Lecture (with a lot of interaction!)
-* Summary: Creativity is the act of bringing the world into existence from nothing. Daily challenges in life, personal and at work, constantly beg for inspirational responses and solutions. Creativity allows us to be innovative, to break down these problems, to analyze the situation, and discover many solutions for each piece. 
-Innovators have creative intelligence and use it through five discovery skills. These innovators consciously spend more of their time using and improving these skills. These five skills are: associating, questioning, observing, experimenting, and networking. We can practice and improve these skills by practicing our creativity.  
-There are two basic ideas of being creative. First, through understanding structure, order, relation, and point of view. Second, that by "flexing your mind" (participation is voluntary and homework is optional) we can remove mental blocks, stretch the imagination muscles, and welcome the unexpected. Life, at home and at work, is destined to get more interesting and fulfilling.
-* Presenter Name(s): Mindy Bohannon
-* Presenter E-mail(s): mindybo@yahoo.com
-* Presenter GitHub Account: mindybo
-* Presenter Blog: 
-* Presenter image to include on Meetup.com: https://unity.divcomevents.com/services/imaging/binaryserver.ashx?cp=20404853
-* Audience Skill Level: All Skill Levels
-* Requirements: Standard A/V powerpoint.  Lecture Style
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Innovation and the link to Creativity: To Keep Your Mind Nimble for Work and Life
 
