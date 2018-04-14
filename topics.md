@@ -23,6 +23,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Add your proposed Topic here!
 
+* Session Title: Introduction to Microservice Architecture
+* Preferred Timeframe: June-July
+* Event Type: 50-min Lecture
+* Summary: Cloud computing, containerization, and automation are becoming the norm for deploying digital solutions. These advancements have led some to rethink the traditional monolith architecture that has defined many areas of software development for so long. Because complicated and resource-intensive deployments are no longer a constraint microservice architectures are becoming popular among developers. Microservices are designed with a focus on scalability and clean code, but they come with a lot of questions. What do we do about shared functionality and cross-cutting concerns? How do we handle communication between microservices? How do we port our existing monolith application over to microservices? In this presentation I will answer these questions and more. I will discuss some common approaches to designing microservices along with the pros and cons of each. I will provide strategies for breaking up your business logic and technical concerns into reasonable services that are maintainable, replaceable, and independently deployable. And I will cover common pitfalls and gotchas that plague microservice designs. This presentation will contain some code samples, but I’ll do my best to keep them straight-forward enough that you won’t need knowledge of a particular programming language or tech stack to follow along.
+* Presenter Name(s): Seth Puckett
+* Presenter E-mail(s): puckett.seth@gmail.com
+* Presenter GitHub Account: https://github.com/sethpuckett
+* Presenter image to include on Meetup.com: https://www.sethpuckett.com/img/headshot.jpg
+* Audience Skill Level: All Skill Levels
+* Requirements: Projector
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 
