@@ -32,9 +32,9 @@ Add your proposed Topic here!
 * Presenter E-mail(s): josh@joshuasnider.com
 * Presenter GitHub Account: www.github.com/jsnider3
 * Presenter Blog: www.joshuasnider.com
-* Presenter image to include on Meetup.com:
+* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
 * Audience Skill Level: All Skill Levels
-* Requirements: [A/V, room setup, or any other needs]
+* Requirements: Standard A/V powerpoint. Lecture Style
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
