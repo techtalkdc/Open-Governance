@@ -23,6 +23,20 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Add your proposed Topic here!
 
+* Session Title: History of Programming-Styles
+* Preferred Timeframe: Summer 2018
+* Event Type: 10-20 minute Lightning Talk
+* Summary: I will compare various programming styles and explain how their development was a reaction to the constraints
+            experienced in their native environment.
+* Presenter Name(s): Josh Snider
+* Presenter E-mail(s): josh@joshuasnider.com
+* Presenter GitHub Account: www.github.com/jsnider3
+* Presenter Blog: www.joshuasnider.com
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: All Skill Levels
+* Requirements: [A/V, room setup, or any other needs]
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 ## Accepted Topics
 
 ### Get into Docker Workshop Series, Part 2: Getting Started with Docker Deployments
