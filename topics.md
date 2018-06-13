@@ -21,18 +21,23 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-* Session Title: 
-qq-1
+* Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
 * Preferred Timeframe: August or Otherwise
 * Event Type: Lightning Talk
-* Summary:
-* Presenter Name(s):
-* Presenter E-mail(s):
-* Presenter GitHub Account:
-* Presenter Blog:
-* Presenter image to include on Meetup.com:
-* Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
-* Requirements: [A/V, room setup, or any other needs]
+* Summary: In most batch files in the wild, there is little or no structure, leading to 
+hard-to-read and sometimes scary-to-run scripts. By imposing just a few simple rules, a batch 
+file can be transformed into a wonderful jewel of a script that can be simple to read, write 
+and maintain. If you need or like to spend time at the command line, you might find this 
+useful.
+
+qq-1
+* Presenter Name(s): Jonathan Jones
+* Presenter E-mail(s): jonathan.r.jones.3@gmail.com
+* Presenter GitHub Account: https://github.com/jonathan-r-jones
+* Presenter Blog: None
+* Presenter image to include on Meetup.com: https://avatars3.githubusercontent.com/u/12241659?s=460&v=4
+* Audience Skill Level: All Skill Levels
+* Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
