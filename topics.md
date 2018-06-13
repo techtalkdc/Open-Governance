@@ -20,19 +20,9 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Proposed Topic
-
-* Session Title: Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
-* Preferred Timeframe: Sometime before September 15th
-* Event Type: 50-min Lecture
-* Summary: At NPR Digital Media we have chosen Jenkins CI as our in-house choice for launching code. While smaller projects lend themselves well to the Jenkins paradigm, large monolith repos do not. This talk is about how a small team of 30+ developers handle the stresses of launching something that millions depend on and our brand rests its laurels on. Focus will be on things we've tried, things we've failed at, and things we're still iterating.
-* Presenter Name(s): Grant Dickie
-* Presenter E-mail(s): gdickie@npr.org
-* Presenter GitHub Account: https://github.com/jdickie 
-* Presenter Blog: https://npr.codes/
-* Presenter image to include on Meetup.com: https://cdn-images-1.medium.com/fit/c/100/100/1*zDbv5aqTtSnC4dsi4OEcnw.png
-* Audience Skill Level: All Skill Levels
-* Requirements: Screen to show my slides on 
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
+* Paste your proposed topic below here!
+-->
 
 ## Accepted Topics
 
@@ -81,5 +71,21 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
 * Audience Skill Level: All Skill Levels
 * Requirements: Standard A/V powerpoint. Lecture Style
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+### Chicken Soup for the Automated Soul
+*Date Pending* 
+
+* Session Title: Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
+* Preferred Timeframe: Sometime before September 15th
+* Event Type: 50-min Lecture
+* Summary: At NPR Digital Media we have chosen Jenkins CI as our in-house choice for launching code. While smaller projects lend themselves well to the Jenkins paradigm, large monolith repos do not. This talk is about how a small team of 30+ developers handle the stresses of launching something that millions depend on and our brand rests its laurels on. Focus will be on things we've tried, things we've failed at, and things we're still iterating.
+* Presenter Name(s): Grant Dickie
+* Presenter E-mail(s): gdickie@npr.org
+* Presenter GitHub Account: https://github.com/jdickie 
+* Presenter Blog: https://npr.codes/
+* Presenter image to include on Meetup.com: https://cdn-images-1.medium.com/fit/c/100/100/1*zDbv5aqTtSnC4dsi4OEcnw.png
+* Audience Skill Level: All Skill Levels
+* Requirements: Screen to show my slides on 
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
