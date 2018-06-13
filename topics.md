@@ -24,7 +24,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
 * Preferred Timeframe: August or Otherwise
 * Event Type: Lightning Talk
-* Summary: In most batch files in the wild, there is little or no structure, leading to ard-to-read and sometimes scary-to-run scripts. By imposing just a few simple rules, a batch file can be transformed into a wonderful jewel of a script that can be simple to read, write and maintain. If you need or like to spend time at the command line, you might find this useful.
+* Summary: In many batch files in the wild, there is little or no structure, leading to ard-to-read and sometimes scary-to-run scripts. By imposing just a few simple rules, a batch file can be transformed into a wonderful jewel of a script that can be simple to read, write and maintain. If you need or like to spend time at the command line, you might find this useful.
 * Presenter Name(s): Jonathan Jones
 * Presenter E-mail(s): jonathan.r.jones.3@gmail.com
 * Presenter GitHub Account: https://github.com/jonathan-r-jones
