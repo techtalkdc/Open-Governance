@@ -21,7 +21,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-Add your proposed Topic here!
+* Session Title: 
+qq-1
+* Preferred Timeframe: August or Otherwise
+* Event Type: Lightning Talk
+* Summary:
+* Presenter Name(s):
+* Presenter E-mail(s):
+* Presenter GitHub Account:
+* Presenter Blog:
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
+* Requirements: [A/V, room setup, or any other needs]
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 
@@ -88,4 +100,3 @@ There are two basic ideas of being creative. First, through understanding struct
 * Audience Skill Level: All Skill Levels
 * Requirements: Projector
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
