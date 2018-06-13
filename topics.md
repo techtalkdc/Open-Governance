@@ -29,8 +29,6 @@ hard-to-read and sometimes scary-to-run scripts. By imposing just a few simple r
 file can be transformed into a wonderful jewel of a script that can be simple to read, write 
 and maintain. If you need or like to spend time at the command line, you might find this 
 useful.
-
-qq-1
 * Presenter Name(s): Jonathan Jones
 * Presenter E-mail(s): jonathan.r.jones.3@gmail.com
 * Presenter GitHub Account: https://github.com/jonathan-r-jones
