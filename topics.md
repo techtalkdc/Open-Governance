@@ -24,6 +24,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Paste your proposed topic below here!
 -->
 
+* Session Title: ACRUMEN: Key Aspects of Software Quality (Extended Edition)
+* Preferred Timeframe: July to mid-September
+* Event Type: 50-min Lecture (including Q&A)
+* Summary: A new way to look at software quality, and tips on how to achieve it.  This is the 50-minute Extended Edition of the previously 30-minute ACRUMEN talk that you got the 10-minute "trailer" for, a few months ago.
+* Presenter Name(s): Dave Aronson
+* Presenter E-mail(s): OMITTED FOR PRIVACY, you already have it from before
+* Presenter GitHub Account: https://github.com/davearonson
+* Presenter Blog: http://blog.Codosaur.us
+* Presenter image to include on Meetup.com: https://avatars1.githubusercontent.com/u/430345
+* Audience Skill Level: Software Developers of All Skill Levels
+* Requirements: A/V (I will have slides on a Macbook Air, and would like to be recorded, but can project to a small room w/o a mic)
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 ## Accepted Topics
 
 ### Painless End to End Testing with Cypress
