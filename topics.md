@@ -57,7 +57,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Lightening Talks
-*Scheduled August. Date Pending*
+*Scheduled August. Pending August 15th*
 
 * Session Title: History of Programming-Styles
 * Preferred Timeframe: Summer 2018
@@ -74,7 +74,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Chicken Soup for the Automated Soul
-*Date Pending* 
+*Scheduled August 29th* 
 
 * Session Title: Chicken Soup for the Automated Soul: How small teams can iterate on launching code for big projects
 * Preferred Timeframe: Sometime before September 15th
