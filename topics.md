@@ -21,8 +21,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
  
-* Paste your proposed topic below here!
--->
+* Session Title: Giving Back with Open Source
+* Preferred Timeframe: Any
+* Event Type: Lightning Talk
+* Summary: Here at the Case Foundation, we’ve released a few open source projects aimed at helping nonprofits, and I'd like to give a lightening talk on those projects and why we at the Case Foundation see open source as a philanthropic act whereby developers can support causes and issues they are passionate about via contributing code. (More on that here: https://ssir.org/articles/entry/open_source_software_is_philanthropy)
+* Presenter Name(s): John Jones
+* Presenter E-mail(s): johnj@casefoundation.org
+* Presenter GitHub Account: johnjones4
+* Presenter Blog: https://johnjonesfour.com/
+* Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
+* Audience Skill Level: All Skill Levels
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 
