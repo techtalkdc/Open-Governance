@@ -61,6 +61,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Presenter Blog: https://johnjonesfour.com/
 * Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
 * Audience Skill Level: All Skill Levels
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 
