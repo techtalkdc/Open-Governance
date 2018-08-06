@@ -21,16 +21,32 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
  
-* Session Title: Giving Back with Open Source
+* Session Title: How to Modularize a legacy Java app | Lessons learnt from Ant to Maven Conversion
 * Preferred Timeframe: Any
-* Event Type: Lightning Talk
-* Summary: Here at the Case Foundation, we’ve released a few open source projects aimed at helping nonprofits, and I'd like to give a lightening talk on those projects and why we at the Case Foundation see open source as a philanthropic act whereby developers can support causes and issues they are passionate about via contributing code. (More on that here: https://ssir.org/articles/entry/open_source_software_is_philanthropy)
-* Presenter Name(s): John Jones
-* Presenter E-mail(s): johnj@casefoundation.org
-* Presenter GitHub Account: johnjones4
-* Presenter Blog: https://johnjonesfour.com/
-* Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
-* Audience Skill Level: All Skill Levels
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we recently had an opportunity to modernize a legacy Java application, when we migrated its build system from Ant to Maven. This talk will cover how we went through the process as well as some tools and techniques we used for this migration.
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+
+## Proposed Topic
+ 
+* Session Title: Introduction to Jenkins Pipeline As Code
+* Preferred Timeframe: Any
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we are starting to use Jenkins Pipeline as Code and ran through surprisingly more challenges than we anticipated. This talk will give a quick introduction to how to write Pipeline as Code and some sample code to get started with
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
 * Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
