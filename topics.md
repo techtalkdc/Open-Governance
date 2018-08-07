@@ -21,36 +21,6 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
  
-* Session Title: Giving Back with Open Source
-* Preferred Timeframe: Any
-* Event Type: Lightning Talk
-* Summary: Here at the Case Foundation, we’ve released a few open source projects aimed at helping nonprofits, and I'd like to give a lightening talk on those projects and why we at the Case Foundation see open source as a philanthropic act whereby developers can support causes and issues they are passionate about via contributing code. (More on that here: https://ssir.org/articles/entry/open_source_software_is_philanthropy)
-* Presenter Name(s): John Jones
-* Presenter E-mail(s): johnj@casefoundation.org
-* Presenter GitHub Account: johnjones4
-* Presenter Blog: https://johnjonesfour.com/
-* Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
-* Audience Skill Level: All Skill Levels
-* Requirements: A/V, room setup
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
-## Accepted Topics
-
-### Painless End to End Testing with Cypress
-*Scheduled June 27*
-
-* Session Title: Painless end to end testing with Cypress
-* Preferred Timeframe: March - June
-* Event Type: 30/50-min Lecture
-* Summary:   I recently went to Assert.JS where I saw a demo for Cypress.io. I couldn’t believe this tool existed and I had never heard about it. I immediately realized all of the things I always wanted in e2e testing had already been done, including things I didn’t know I wanted. I’ll demo what a cypress workflow looks like and show the cool tricks I’ve learned to make testing easy.
-* Presenter Name(s): Brandon Lawrence
-* Presenter E-mail(s): bvbrandonbv@gmail.com
-* Presenter GitHub Account: Brantron
-* Presenter image to include on Meetup.com: https://avatars2.githubusercontent.com/u/3149916?s=460&v=4
-* Audience Skill Level: All Skill Levels
-* Requirements: A/V -  I will need to screenshare while presenting
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
-
 ### Introduction to Microservice Architecture
 *Scheduled July 25*
 
@@ -67,7 +37,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Lightening Talks
-*Scheduled August. Pending August 15th*
+*Scheduled August. August 15th*
 
 * Session Title: History of Programming-Styles
 * Preferred Timeframe: Summer 2018
@@ -81,6 +51,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
 * Audience Skill Level: All Skill Levels
 * Requirements: Standard A/V powerpoint. Lecture Style
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* Session Title: Giving Back with Open Source
+* Preferred Timeframe: Any
+* Event Type: Lightning Talk
+* Summary: Here at the Case Foundation, we’ve released a few open source projects aimed at helping nonprofits, and I'd like to give a lightening talk on those projects and why we at the Case Foundation see open source as a philanthropic act whereby developers can support causes and issues they are passionate about via contributing code. (More on that here: https://ssir.org/articles/entry/open_source_software_is_philanthropy)
+* Presenter Name(s): John Jones
+* Presenter E-mail(s): johnj@casefoundation.org
+* Presenter GitHub Account: johnjones4
+* Presenter Blog: https://johnjonesfour.com/
+* Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
+* Audience Skill Level: All Skill Levels
+* Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Chicken Soup for the Automated Soul
