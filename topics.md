@@ -21,6 +21,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+Insert your topic here!
+
 ## Accepted Topics
 
 ### Lightening Talks
@@ -40,6 +42,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: Standard A/V powerpoint. Lecture Style
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+---
+
 * Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
 * Preferred Timeframe: August or Otherwise
 * Event Type: Lightning Talk
@@ -52,6 +56,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Audience Skill Level: All Skill Levels
 * Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
 
 * Session Title: Giving Back with Open Source
 * Preferred Timeframe: Any
