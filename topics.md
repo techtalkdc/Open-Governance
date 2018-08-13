@@ -21,7 +21,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-Insert your topic here!
+* Session Title: Get the ETL Out of Here: A new, modern approach to data integration in NoSQL
+* Preferred Timeframe: 10 mins
+* Event Type: Lightning Talk - August 14
+* Summary: We will discuss a new, modern approach using NoSQL technology to bypass the costly ETL phase of data integration projects commonly seen in today's world.
+* Presenter Name(s): Trinh Lieu
+* Presenter E-mail(s): trinh.lieu@marklogic.com
+* Presenter GitHub Account: TrinhML
+* Presenter Blog: developer.marklogic.com/blog
+* Presenter image to include on Meetup.com: https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg
+* Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced] All Skill Levels
+* Requirements: [A/V, room setup, or any other needs] PPT projection (will email slides)
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 
