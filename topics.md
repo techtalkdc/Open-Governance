@@ -1,4 +1,4 @@
-# TechTalkDC -- Accepted Topics
+﻿# TechTalkDC -- Accepted Topics
 Interested in speaking at an upcoming TechTalk DC event? Add your information here via pull request and we'll figure out how make it happen!
 
 ## Template
@@ -27,7 +27,6 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ### Lightening Talks
 *Scheduled August 15th*
----
 
 * Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
 * Preferred Timeframe: August or Otherwise
