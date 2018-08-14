@@ -73,19 +73,35 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ---
 
-* Session Title: Describing JSON data with JSON Schema
-* Preferred Timeframe: 10-15 minutes
-* Event Type: Lightning Talk
-* Summary: When people are talking about RESTful APIs, they usually think of resources and associated HTTP methods. But for me, data is in the heart of almost every API. JSON Schema is a precise description of JSON data which is both machine-readable and human-friendly. In this presentation, I will talk about how JSON schema is used to describe the structure of JSON data and provide an overview of my favorite features. By the end of this talk, you will know how to describe objects and their properties. In addition to this, you will also know how to model data type inheritance in JSON Schema.
-* Presenter Name: Tanya Fesenko
-* Presenter E-mail(s): Tatiana.Fesenko@RepreZen.com
-* Presenter GitHub Account: github.com/tfesenko
-* Presenter Blog: http://tfesenko.com/
-* Presenter image to include on Meetup.com:
-* Audience Skill Level: Intermediate
-* Requirements: A/V (projector for the slides and a microphone)
-
+* Session Title: Introduction to Jenkins Pipeline As Code
+* Preferred Timeframe: Any
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we are starting to use Jenkins Pipeline as Code and ran through surprisingly more challenges than we anticipated. This talk will give a quick introduction to how to write Pipeline as Code and some sample code to get started with
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
+* Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+*OR*
+
+* Session Title: How to Modularize a legacy Java app | Lessons learnt from Ant to Maven Conversion
+* Preferred Timeframe: Any
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we recently had an opportunity to modernize a legacy Java application, when we migrated its build system from Ant to Maven. This talk will cover how we went through the process as well as some tools and techniques we used for this migration.
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
 
 ### Chicken Soup for the Automated Soul
 *Scheduled August 29th* 
