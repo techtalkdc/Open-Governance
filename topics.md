@@ -1,4 +1,4 @@
-# TechTalkDC -- Accepted Topics
+﻿# TechTalkDC -- Accepted Topics
 Interested in speaking at an upcoming TechTalk DC event? Add your information here via pull request and we'll figure out how make it happen!
 
 ## Template
@@ -20,37 +20,29 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Proposed Topic
- 
-* Session Title: How to Modularize a legacy Java app | Lessons learnt from Ant to Maven Conversion
-* Preferred Timeframe: Any
-* Event Type: 10min Lightening Talk
-* Summary: At a leading financial enterprise, we recently had an opportunity to modernize a legacy Java application, when we migrated its build system from Ant to Maven. This talk will cover how we went through the process as well as some tools and techniques we used for this migration.
-* Presenter Name(s): Ram Dwivedi
-* Presenter E-mail(s): adwivedi2@sapient.com
-* Presenter GitHub Account: AbhiramDwivedi
-* Presenter Blog: https://dabblinginsoftware.blogspot.com/
-* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
-* Audience Skill Level: Beginner
+
+### Lightening Talks
+
+## Accepted Topics
+
+### Lightening Talks
+*Scheduled August 15th*
+
+* Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
+* Preferred Timeframe: August or Otherwise
+* Event Type: Lightning Talk
+* Summary: In many batch files in the wild, there is little or no structure, leading to hard-to-read and sometimes scary-to-run scripts. By imposing just a few simple rules, a batch file can be transformed into a wonderful jewel of a script that can be simple to read, write and maintain. If you need or like to spend time at the command line, you might find this useful.
+* Presenter Name(s): Jonathan Jones
+* Presenter E-mail(s): jonathan.r.jones.3@gmail.com
+* Presenter GitHub Account: https://github.com/jonathan-r-jones
+* Presenter Blog: None
+* Presenter image to include on Meetup.com: https://avatars3.githubusercontent.com/u/12241659?s=460&v=4
+* Audience Skill Level: All Skill Levels
 * Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+---
 
-## Proposed Topic
- 
-* Session Title: Introduction to Jenkins Pipeline As Code
-* Preferred Timeframe: Any
-* Event Type: 10min Lightening Talk
-* Summary: At a leading financial enterprise, we are starting to use Jenkins Pipeline as Code and ran through surprisingly more challenges than we anticipated. This talk will give a quick introduction to how to write Pipeline as Code and some sample code to get started with
-* Presenter Name(s): Ram Dwivedi
-* Presenter E-mail(s): adwivedi2@sapient.com
-* Presenter GitHub Account: AbhiramDwivedi
-* Presenter Blog: https://dabblinginsoftware.blogspot.com/
-* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
-* Audience Skill Level: Beginner
-* Requirements: A/V, room setup
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
-## Proposed Topic
 * Session Title: Giving Back with Open Source
 * Preferred Timeframe: Any
 * Event Type: Lightning Talk
@@ -64,54 +56,52 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: A/V, room setup
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
-## Accepted Topics
+---
 
-### Painless End to End Testing with Cypress
-*Scheduled June 27*
-
-* Session Title: Painless end to end testing with Cypress
-* Preferred Timeframe: March - June
-* Event Type: 30/50-min Lecture
-* Summary:   I recently went to Assert.JS where I saw a demo for Cypress.io. I couldn’t believe this tool existed and I had never heard about it. I immediately realized all of the things I always wanted in e2e testing had already been done, including things I didn’t know I wanted. I’ll demo what a cypress workflow looks like and show the cool tricks I’ve learned to make testing easy.
-* Presenter Name(s): Brandon Lawrence
-* Presenter E-mail(s): bvbrandonbv@gmail.com
-* Presenter GitHub Account: Brantron
-* Presenter image to include on Meetup.com: https://avatars2.githubusercontent.com/u/3149916?s=460&v=4
-* Audience Skill Level: All Skill Levels
-* Requirements: A/V -  I will need to screenshare while presenting
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. 👍
-
-### Introduction to Microservice Architecture
-*Scheduled July 25*
-
-* Session Title: Introduction to Microservice Architecture
-* Preferred Timeframe: June-July
-* Event Type: 50-min Lecture
-* Summary: Cloud computing, containerization, and automation are becoming the norm for deploying digital solutions. These advancements have led some to rethink the traditional monolith architecture that has defined many areas of software development for so long. Because complicated and resource-intensive deployments are no longer a constraint microservice architectures are becoming popular among developers. Microservices are designed with a focus on scalability and clean code, but they come with a lot of questions. What do we do about shared functionality and cross-cutting concerns? How do we handle communication between microservices? How do we port our existing monolith application over to microservices? In this presentation I will answer these questions and more. I will discuss some common approaches to designing microservices along with the pros and cons of each. I will provide strategies for breaking up your business logic and technical concerns into reasonable services that are maintainable, replaceable, and independently deployable. And I will cover common pitfalls and gotchas that plague microservice designs. This presentation will contain some code samples, but I’ll do my best to keep them straight-forward enough that you won’t need knowledge of a particular programming language or tech stack to follow along.
-* Presenter Name(s): Seth Puckett
-* Presenter E-mail(s): puckett.seth@gmail.com
-* Presenter GitHub Account: https://github.com/sethpuckett
-* Presenter image to include on Meetup.com: https://www.sethpuckett.com/img/headshot.jpg
-* Audience Skill Level: All Skill Levels
-* Requirements: Projector
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
-### Lightening Talks
-*Scheduled August. Pending August 15th*
-
-* Session Title: History of Programming-Styles
+* Session Title: Tips and tricks on how to be an amazing remote developer
 * Preferred Timeframe: Summer 2018
-* Event Type: 10-20 minute Lightning Talk
-* Summary: I will compare various programming styles and explain how their development was a reaction to the constraints
-            experienced in their native environment.
-* Presenter Name(s): Josh Snider
-* Presenter E-mail(s): josh@joshuasnider.com
-* Presenter GitHub Account: www.github.com/jsnider3
-* Presenter Blog: www.joshuasnider.com
-* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
+* Event Type: 10 minute Lightning Talk
+* Summary: Wouldn't you want to work from a Beach in Hawaii or from mountains in Alaska? Come join me where I share some secrets about remote working. Broad areas that I'll talk about - How to find a remote job? How to be an amazing Remote Employee? How to grow your career while being remote?
+* Presenter Name(s): Nitesh Agrawal
+* Presenter E-mail(s): nitesh@indiez.io
+* Presenter GitHub Account: www.github.com/indiez
+* Presenter Blog: https://medium.com/@niteshagrawal20
+* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C4D03AQFdtHmMm1fZMA/profile-displayphoto-shrink_200_200/0?e=1539216000&v=beta&t=H4ZXpvLqFAMm5BLcQjkDKmsEUQ2bBUpNF2VMEHeG2aw
 * Audience Skill Level: All Skill Levels
 * Requirements: Standard A/V powerpoint. Lecture Style
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
+
+* Session Title: Introduction to Jenkins Pipeline As Code
+* Preferred Timeframe: Any
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we are starting to use Jenkins Pipeline as Code and ran through surprisingly more challenges than we anticipated. This talk will give a quick introduction to how to write Pipeline as Code and some sample code to get started with
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+*OR*
+
+* Session Title: How to Modularize a legacy Java app | Lessons learnt from Ant to Maven Conversion
+* Preferred Timeframe: Any
+* Event Type: 10min Lightening Talk
+* Summary: At a leading financial enterprise, we recently had an opportunity to modernize a legacy Java application, when we migrated its build system from Ant to Maven. This talk will cover how we went through the process as well as some tools and techniques we used for this migration.
+* Presenter Name(s): Ram Dwivedi
+* Presenter E-mail(s): adwivedi2@sapient.com
+* Presenter GitHub Account: AbhiramDwivedi
+* Presenter Blog: https://dabblinginsoftware.blogspot.com/
+* Presenter image to include on Meetup.com: https://2.bp.blogspot.com/-sHrFsrZd3yM/W2ihsU76jiI/AAAAAAAAn_Q/4N4Daps938sa6KrixXHu_UNCSnLFM8_IQCK4BGAYYCw/s113/20180507_114959.jpg
+* Audience Skill Level: Beginner
+* Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
 
 ### Chicken Soup for the Automated Soul
 *Scheduled August 29th* 
@@ -128,4 +118,3 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Audience Skill Level: All Skill Levels
 * Requirements: Screen to show my slides on 
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
