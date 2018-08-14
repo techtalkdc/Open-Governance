@@ -1,4 +1,4 @@
-# TechTalkDC -- Accepted Topics
+﻿# TechTalkDC -- Accepted Topics
 Interested in speaking at an upcoming TechTalk DC event? Add your information here via pull request and we'll figure out how make it happen!
 
 ## Template
@@ -22,42 +22,11 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 ## Proposed Topic
 
 ### Lightening Talks
-*Scheduled August 15th*
-
-* Session Title: Tips and tricks on how to be an amazing remote developer
-* Preferred Timeframe: Summer 2018
-* Event Type: 10 minute Lightning Talk
-* Summary: Wouldn't you want to work from a Beach in Hawaii or from mountains in Alaska? Come join me where I share some secrets about remote working. Broad areas that I'll talk about - How to find a remote job? How to be an amazing Remote Employee? How to grow your career while being remote?
-* Presenter Name(s): Nitesh Agrawal
-* Presenter E-mail(s): nitesh@indiez.io
-* Presenter GitHub Account: www.github.com/indiez
-* Presenter Blog: https://medium.com/@niteshagrawal20
-* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C4D03AQFdtHmMm1fZMA/profile-displayphoto-shrink_200_200/0?e=1539216000&v=beta&t=H4ZXpvLqFAMm5BLcQjkDKmsEUQ2bBUpNF2VMEHeG2aw
-* Audience Skill Level: All Skill Levels
-* Requirements: Standard A/V powerpoint. Lecture Style
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
 
 ## Accepted Topics
 
 ### Lightening Talks
 *Scheduled August 15th*
-
-* Session Title: History of Programming-Styles
-* Preferred Timeframe: Summer 2018
-* Event Type: 10-20 minute Lightning Talk
-* Summary: I will compare various programming styles and explain how their development was a reaction to the constraints
-            experienced in their native environment.
-* Presenter Name(s): Josh Snider
-* Presenter E-mail(s): josh@joshuasnider.com
-* Presenter GitHub Account: www.github.com/jsnider3
-* Presenter Blog: www.joshuasnider.com
-* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
-* Audience Skill Level: All Skill Levels
-* Requirements: Standard A/V powerpoint. Lecture Style
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
----
 
 * Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
 * Preferred Timeframe: August or Otherwise
@@ -85,6 +54,37 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Presenter image to include on Meetup.com: https://johnjonesfour.com/img/headshot.png
 * Audience Skill Level: All Skill Levels
 * Requirements: A/V, room setup
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
+
+* Session Title: Tips and tricks on how to be an amazing remote developer
+* Preferred Timeframe: Summer 2018
+* Event Type: 10 minute Lightning Talk
+* Summary: Wouldn't you want to work from a Beach in Hawaii or from mountains in Alaska? Come join me where I share some secrets about remote working. Broad areas that I'll talk about - How to find a remote job? How to be an amazing Remote Employee? How to grow your career while being remote?
+* Presenter Name(s): Nitesh Agrawal
+* Presenter E-mail(s): nitesh@indiez.io
+* Presenter GitHub Account: www.github.com/indiez
+* Presenter Blog: https://medium.com/@niteshagrawal20
+* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C4D03AQFdtHmMm1fZMA/profile-displayphoto-shrink_200_200/0?e=1539216000&v=beta&t=H4ZXpvLqFAMm5BLcQjkDKmsEUQ2bBUpNF2VMEHeG2aw
+* Audience Skill Level: All Skill Levels
+* Requirements: Standard A/V powerpoint. Lecture Style
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+---
+
+* Session Title: Describing JSON data with JSON Schema
+* Preferred Timeframe: 10-15 minutes
+* Event Type: Lightning Talk
+* Summary: When people are talking about RESTful APIs, they usually think of resources and associated HTTP methods. But for me, data is in the heart of almost every API. JSON Schema is a precise description of JSON data which is both machine-readable and human-friendly. In this presentation, I will talk about how JSON schema is used to describe the structure of JSON data and provide an overview of my favorite features. By the end of this talk, you will know how to describe objects and their properties. In addition to this, you will also know how to model data type inheritance in JSON Schema.
+* Presenter Name: Tanya Fesenko
+* Presenter E-mail(s): Tatiana.Fesenko@RepreZen.com
+* Presenter GitHub Account: github.com/tfesenko
+* Presenter Blog: http://tfesenko.com/
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: Intermediate
+* Requirements: A/V (projector for the slides and a microphone)
+
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Chicken Soup for the Automated Soul
