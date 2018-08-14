@@ -27,21 +27,6 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ### Lightening Talks
 *Scheduled August 15th*
-
-* Session Title: History of Programming-Styles
-* Preferred Timeframe: Summer 2018
-* Event Type: 10-20 minute Lightning Talk
-* Summary: I will compare various programming styles and explain how their development was a reaction to the constraints
-            experienced in their native environment.
-* Presenter Name(s): Josh Snider
-* Presenter E-mail(s): josh@joshuasnider.com
-* Presenter GitHub Account: www.github.com/jsnider3
-* Presenter Blog: www.joshuasnider.com
-* Presenter image to include on Meetup.com: https://media.licdn.com/dms/image/C5103AQFTBudTo0gtyw/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=fqqT8Iunh4AnC7uSjsCKOfAK4L0sT3lhuDD8JeDlgFc
-* Audience Skill Level: All Skill Levels
-* Requirements: Standard A/V powerpoint. Lecture Style
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
 ---
 
 * Session Title: You've Been a Bad Programmer Now Goto Your Room!: Composing Batch Files
@@ -74,6 +59,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ---
 
+
 * Session Title: Get the ETL Out of Here: A new, modern approach to data integration in NoSQL
 * Preferred Timeframe: 10 mins
 * Event Type: Lightning Talk - August 14
@@ -85,6 +71,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Presenter image to include on Meetup.com: https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg
 * Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced] All Skill Levels
 * Requirements: [A/V, room setup, or any other needs] PPT projection (will email slides)
+=======
+* Session Title: Describing JSON data with JSON Schema
+* Preferred Timeframe: 10-15 minutes
+* Event Type: Lightning Talk
+* Summary: When people are talking about RESTful APIs, they usually think of resources and associated HTTP methods. But for me, data is in the heart of almost every API. JSON Schema is a precise description of JSON data which is both machine-readable and human-friendly. In this presentation, I will talk about how JSON schema is used to describe the structure of JSON data and provide an overview of my favorite features. By the end of this talk, you will know how to describe objects and their properties. In addition to this, you will also know how to model data type inheritance in JSON Schema.
+* Presenter Name: Tanya Fesenko
+* Presenter E-mail(s): Tatiana.Fesenko@RepreZen.com
+* Presenter GitHub Account: github.com/tfesenko
+* Presenter Blog: http://tfesenko.com/
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: Intermediate
+* Requirements: A/V (projector for the slides and a microphone)
+
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ### Chicken Soup for the Automated Soul
