@@ -21,7 +21,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-### Lightening Talks
+
 
 ## Accepted Topics
 
