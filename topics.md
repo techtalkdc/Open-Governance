@@ -22,11 +22,12 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 ## Proposed Topic
 
 * Session Title: Using Apache NiFi to Integrate Data into a NoSQL Multi-Model Database
-* Preferred Timeframe: October 17th
+* Preferred Timeframe: October 24th
 * Event Type: 50-min Lecture
-* Summary: Apache NiFi was built to automate the flow of data providing a nice drag and drop, configurable user interface. With Apache NiFi, you can use out-of-the-box processors to create data flows from relational databases such as MySQL or Postgres, Apache Kafka data streams and other sources in the Hadoop ecosystem, and many other data sources. If a processor doesn’t exist, you can build your own. You can also create templates for common data flow patterns, then publish and share them for others to benefit and collaborate.
+* Summary: Apache NiFi was built to automate the flow of data, providing a drag and drop, configurable user interface. With Apache NiFi, you can use out-of-the-box processors to create data flows from MySQL, Postgres, Apache Kafka, the Hadoop ecosystem, and many other data sources. If a processor doesn’t exist, you can build your own. You can also create templates for common data flow patterns, then publish and share them for collaboration needs.
 
-We will discuss the value of integrating data from different sources, from unstructured to relational, into a single NoSQL multi-model database and demonstrate how to do this using Apache NiFi into a MarkLogic database.
+Scott Fowler, MarkLogic Principal Sales Engineer, will discuss the value of integrating unstructured and structured data from multiple sources into an Operational Data Hub. This presentation will include a demonstration using Apache NiFi to ingest data into a MarkLogic NoSQL database.
+
 
 * Presenter Name(s): Scott Fowler and Trinh lieu
 * Presenter E-mail(s): Scott.Fowler@marklogic.com and trinh.lieu@gmail.com
