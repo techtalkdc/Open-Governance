@@ -1,17 +1,19 @@
 ## Proposed Topic
 
-* Session Title: Driving continuous improvement within teams through Andon Cords
-* Preferred Timeframe: February 28
-* Event Type: 50-min Lecture
-* Summary: The andon cord is a Toyota innovation designed to empower front-line employees to recognize issues, initiate a stoppage of work, and work together as a team to quickly apply a root-cause analysis and identify a path forward. The emergency cable strung above assembly lines became a symbol of the Toyota Way, and has widely been copied throughout the auto industry and beyond.
+* Session Title: Real-Time Data Streaming with Azure Stream Analytics
+* Preferred Timeframe: Whenever
+* Event Type: 50-65-min Lecture with demo
+* Summary: It’s imperative in today's world to be able to make split second decisions based on real-time data. Reports based on batch data are great for looking back at trends and potentially making long-term decision, but old data is in many cases already obsolete, and the opportunity to have an actionable impact on the success of a specific process may have been lost.
 
-Zack Ayers, Scrum Master at Excella, will discuss his scrum team's journey with an andon cord and how their experiment evolved over time. He'll also talk about how empowering a team (instead of telling a team what to do) can help nurture a culture of continuous improvement and innovation.
+What if we easily could set up a near real-time data pipeline, that could be used to provide complex analytics, and make intelligent actions based on the result? Allow me to introduce Azure Stream Analytics! In this talk, we will take a closer look at the Azure Stream Analytics ecosystem, and look at real world examples streaming twitter feeds as well as sensor data from Raspberry Pi's, demonstrating how you can build your own burglar alarm.
 
-* Presenter Name(s): Zack Ayers
-* Presenter E-mail(s): ayerszj@gmail.com
-* Presenter GitHub Account: zayers
+#azure #eventhub #streamanalytics #raspberrypi #powerbi #webjobs #azurefunctions
+
+* Presenter Name(s): Alexander Slotte
+* Presenter E-mail(s): alexander.slotte@gmail.com
+* Presenter GitHub Account: aslotte
 * Presenter Blog: https://www.excella.com/insights
-* Presenter image to include on Meetup.com: https://avatars1.githubusercontent.com/u/15240795?s=460&v=4
+* Presenter image to include on Meetup.com: Happy to send you own, but feel free to use GitHub profile picture
 * Audience Skill Level: All skill levels
 * Requirements: Will provide own presentation laptop
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
