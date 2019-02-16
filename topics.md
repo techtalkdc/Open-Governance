@@ -1,17 +1,24 @@
 ## Proposed Topic
 
-* Session Title: Driving continuous improvement within teams through Andon Cords
-* Preferred Timeframe: February 28
+* Session Title: Machine Learning made Easy - An Introduction to ML.NET
+* Preferred Timeframe: Whenever
 * Event Type: 50-min Lecture
-* Summary: The andon cord is a Toyota innovation designed to empower front-line employees to recognize issues, initiate a stoppage of work, and work together as a team to quickly apply a root-cause analysis and identify a path forward. The emergency cable strung above assembly lines became a symbol of the Toyota Way, and has widely been copied throughout the auto industry and beyond.
+* Summary: Have you wondnered what the hype is about when it comes to AI and ML?
+Do you want a chance to get involved in the community and utilize ML algorithms to make your application smarter?
 
-Zack Ayers, Scrum Master at Excella, will discuss his scrum team's journey with an andon cord and how their experiment evolved over time. He'll also talk about how empowering a team (instead of telling a team what to do) can help nurture a culture of continuous improvement and innovation.
+Join this session for a deep dive in to the open source repository of ML.NET!
 
-* Presenter Name(s): Zack Ayers
-* Presenter E-mail(s): ayerszj@gmail.com
-* Presenter GitHub Account: zayers
+In the session will touch upon:
+- What is ML.NET and how does it benefit you
+- ML Basics - looking at supervised vs unsupervised learning and techniques such as binary classification, clustering and multi-class classification
+- Working with ML.NET and how you can train your own model and use it in production applications
+- Deep learning with ML.NET
+
+* Presenter Name(s): Alexander Slotte
+* Presenter E-mail(s): alexander.slotte@gmail.com
+* Presenter GitHub Account: aslotte
 * Presenter Blog: https://www.excella.com/insights
-* Presenter image to include on Meetup.com: https://avatars1.githubusercontent.com/u/15240795?s=460&v=4
+* Presenter image to include on Meetup.com: Please use GitHub profile picture
 * Audience Skill Level: All skill levels
 * Requirements: Will provide own presentation laptop
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
