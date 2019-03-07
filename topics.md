@@ -1,7 +1,7 @@
 ## Proposed Topic
 
 * Session Title: Real-Time Data Streaming with Azure Stream Analytics
-* Preferred Timeframe: Whenever
+* Preferred Timeframe: Whenever (SCHEDULED May 29th)
 * Event Type: 50-65-min Lecture with demo
 * Summary: It’s imperative in today's world to be able to make split second decisions based on real-time data. Reports based on batch data are great for looking back at trends and potentially making long-term decision, but old data is in many cases already obsolete, and the opportunity to have an actionable impact on the success of a specific process may have been lost.
 
