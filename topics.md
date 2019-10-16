@@ -23,6 +23,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Please paste your proposed topic here!
 
+* Session Title: Undercover Scrum Master
+* Preferred Timeframe: November 2019 - February 2020
+* Event Type: 50-min Lecture
+* Summary: Experience report about a Scrum Master spending two years as a software developer on a Scrum team. I hit a wall coaching a team that did not want to try popular Agile engineering techniques such as Test-Driven Development (TDD) and pair programming. I became a Scrum Master after working on the business analysis and account ownership side of software development and could not speak from personal experience about engineering practices. In order to get some first-hand experience and to gain a new perspective, I chose to spend a couple years as a software developer on a Scrum team and I learned more than I expected.
+* Presenter Name: Dane Weber
+* Presenter E-mail: dane.weber@excella.com
+* Presenter GitHub Account: daneweber
+* Presenter Blog:
+* Presenter image to include on Meetup.com: ![From ExcellaLabs.com](https://eks-excellalabs-prod.s3.amazonaws.com/avatar_images/avatar_3848e10c-f6e3-405e-b57a-716ce2fdd48b_DaneWeberColorSquare.jpg)
+* Audience Skill Level: All Skill Levels
+* Requirements: Projector for slides
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 ## Accepted Topics
 
 ### Scheduled 10/30/2019
