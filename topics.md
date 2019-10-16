@@ -1,19 +1,42 @@
+# TechTalkDC -- Topics
+Interested in speaking at an upcoming TechTalk DC event? Add your information here via pull request and we'll figure out how make it happen!
+
+## Template
+This is meant to be a guide -- don't let it overwhelm you. Give us what you've got and we'll get the rest before we need it.
+
+**Instructions:** Copy and paste the template to the template into the proposed topics section below. Update with your event information. Submit a pull request with your changes!
+
+* Session Title:
+* Preferred Timeframe:
+* Event Type: [Pick one: 50-min Lecture, Lightning Talk, Panel Event, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
+* Summary:
+* Presenter Name(s):
+* Presenter E-mail(s):
+* Presenter GitHub Account:
+* Presenter Blog:
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
+* Requirements: [A/V, room setup, or any other needs]
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 ## Proposed Topic
 
-* Session Title: Real-Time Data Streaming with Azure Stream Analytics
-* Preferred Timeframe: Whenever (SCHEDULED May 29th)
-* Event Type: 50-65-min Lecture with demo
-* Summary: It’s imperative in today's world to be able to make split second decisions based on real-time data. Reports based on batch data are great for looking back at trends and potentially making long-term decision, but old data is in many cases already obsolete, and the opportunity to have an actionable impact on the success of a specific process may have been lost.
+Please paste your proposed topic here!
 
-What if we easily could set up a near real-time data pipeline, that could be used to provide complex analytics, and make intelligent actions based on the result? Allow me to introduce Azure Stream Analytics! In this talk, we will take a closer look at the Azure Stream Analytics ecosystem, and look at real world examples streaming twitter feeds as well as sensor data from Raspberry Pi's, demonstrating how you can build your own burglar alarm.
+## Accepted Topics
 
-#azure #eventhub #streamanalytics #raspberrypi #powerbi #webjobs #azurefunctions
+### Scheduled 10/30/2019
+* Session Title: Token-based security for web applications using OAuth2 and OpenID Connect
+* Preferred Timeframe:
+* Event Type: 50-min Lecture
+* Summary: The token has become a popular pattern for securing web applications. Developers love its conceptual simplicity, and architects appreciate the ability to design applications with nicely decoupled security roles. However, pitfalls lurk in the ease of this token-based security. Within the last decade, two security standards have taken center stage to provide guidance and support for the implementation of robust security infrastructure. These standards are OAuth 2 and OpenID Connect.
 
-* Presenter Name(s): Alexander Slotte
-* Presenter E-mail(s): alexander.slotte@gmail.com
-* Presenter GitHub Account: aslotte
-* Presenter Blog: https://www.excella.com/insights
-* Presenter image to include on Meetup.com: Happy to send you own, but feel free to use GitHub profile picture
-* Audience Skill Level: All skill levels
-* Requirements: Will provide own presentation laptop
-* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+In this presentation, Vladimir Bychkov will cover the basics of these security protocols, explain and demo the authorization flows for different types of applications and provide tips for implementation of centralized authorization service using ASP.NET Core.
+* Presenter Name(s): Vladimir Bychkov
+* Presenter E-mail(s):
+* Presenter GitHub Account:
+* Presenter Blog:
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
+* Requirements: [A/V, room setup, or any other needs]
+* Code of Conduct: Not completed in this PR
